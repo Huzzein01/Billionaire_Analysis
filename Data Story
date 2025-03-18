@@ -1,0 +1,14 @@
+📖 Data Story: Billionaire Analysis Project
+The Billionaire Analysis Project was designed to uncover trends and insights from a global dataset of billionaires. Starting with a raw Excel file, the dataset underwent thorough preprocessing, including the creation of a calculated Age column and the correction of inconsistent data types. These foundational steps were critical to ensuring the accuracy and reliability of the analysis.
+
+Using Pivot Tables, I explored multiple dimensions of the data. One key finding was the age distribution of billionaires, which showed a concentration of wealth among individuals between the ages of 50 and 70, suggesting that wealth accumulation peaks in later career stages.
+
+Through country-level analysis, it became evident that countries like the United States, China, and India dominate the global billionaire landscape. This aligns with these countries’ high GDPs and large economic footprints.
+
+Industry analysis revealed that Finance & Investments, Technology, and Manufacturing are the top wealth-generating sectors, with Technology billionaires skewing younger compared to other sectors, emphasizing the rapid wealth creation potential in digital innovation.
+
+The gender distribution analysis highlighted a significant imbalance, with males making up the vast majority of billionaires. Although female representation is gradually increasing, the disparity underscores ongoing gender inequality in wealth distribution.
+
+A visual correlation between Age and Net Worth was also explored. While no direct linear pattern emerged, the scatter plot emphasized outliers — younger individuals with extremely high net worth, especially in tech sectors.
+
+The project culminated in an informative dashboard of plots and charts that succinctly told the story of who the billionaires are, where they come from, how old they are, and what industries they dominate — providing a clear and insightful narrative backed by data.
