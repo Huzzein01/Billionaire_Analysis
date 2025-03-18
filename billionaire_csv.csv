@@ -1,0 +1,482 @@
+﻿rank,category,personName,country,city,source,industries,selfMade,gender,lastName,firstName,finalWorth,birthYear,birthMonth,birthDay,cpi_country,gdp_country,life_expectancy_country,tax_revenue_country_country,total_tax_rate_country,population_country,Birth Date,Current Date ,Age 
+1,Fashion & Retail,Bernard Arnault & family,France,Paris,LVMH,Fashion & Retail,FALSE,M,Arnault,Bernard,211000,1949,3,5,110.05,2.71552E+12,82.5,24.2,60.7,67059887,3/5/49,3/17/25,76.03
+2,Automotive,Elon Musk,United States,Austin,"Tesla, SpaceX",Automotive,TRUE,M,Musk,Elon,180000,1971,6,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/28/71,3/17/25,53.72
+3,Technology,Jeff Bezos,United States,Medina,Amazon,Technology,TRUE,M,Bezos,Jeff,114000,1964,1,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/12/64,3/17/25,61.18
+4,Technology,Larry Ellison,United States,Lanai,Oracle,Technology,TRUE,M,Ellison,Larry,107000,1944,8,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/17/44,3/17/25,80.58
+5,Finance & Investments,Warren Buffett,United States,Omaha,Berkshire Hathaway,Finance & Investments,TRUE,M,Buffett,Warren,106000,1930,8,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/30/30,3/17/25,94.55
+6,Technology,Bill Gates,United States,Medina,Microsoft,Technology,TRUE,M,Gates,Bill,104000,1955,10,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/28/55,3/17/25,69.38
+6,Technology,Bill Gates,United States,Medina,Microsoft,Technology,TRUE,M,Gates,Bill,104000,1955,10,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/28/55,3/17/25,69.38
+7,Media & Entertainment,Michael Bloomberg,United States,New York,Bloomberg LP,Media & Entertainment,TRUE,M,Bloomberg,Michael,94500,1942,2,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/14/42,3/17/25,83.09
+8,Telecom,Carlos Slim Helu & family,Mexico,Mexico City,Telecom,Telecom,TRUE,M,Slim Helu,Carlos,93000,1940,1,28,141.54,1.25829E+12,75,13.1,55.1,126014024,1/28/40,3/17/25,85.13
+9,Diversified,Mukesh Ambani,India,Mumbai,Diversified,Diversified,FALSE,M,Ambani,Mukesh,83400,1957,4,19,180.44,2.611E+12,69.4,11.2,49.7,1366417754,4/19/57,3/17/25,67.91
+10,Technology,Steve Ballmer,United States,Hunts Point,Microsoft,Technology,TRUE,M,Ballmer,Steve,80700,1956,3,24,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/24/56,3/17/25,68.98
+11,Fashion & Retail,Francoise Bettencourt Meyers & family,France,Paris,L'Oréal,Fashion & Retail,FALSE,F,Bettencourt Meyers,Francoise,80500,1953,7,10,110.05,2.71552E+12,82.5,24.2,60.7,67059887,7/10/53,3/17/25,71.69
+12,Technology,Larry Page,United States,Palo Alto,Google,Technology,TRUE,M,Page,Larry,79200,1973,3,26,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/26/73,3/17/25,51.98
+13,Fashion & Retail,Amancio Ortega,Spain,La Coruna,Zara,Fashion & Retail,TRUE,M,Ortega,Amancio,77300,1936,3,28,110.96,1.39412E+12,83.3,14.2,47,47076781,3/28/36,3/17/25,88.97
+14,Technology,Sergey Brin,United States,Los Altos,Google,Technology,TRUE,M,Brin,Sergey,76000,1973,8,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/21/73,3/17/25,51.57
+15,Food & Beverage,Zhong Shanshan,China,Hangzhou,"Beverages, pharmaceuticals",Food & Beverage,TRUE,M,Zhong,Shanshan,68000,1954,12,1,125.08,1.991E+13,77,9.4,59.2,1397715000,12/1/54,3/17/25,70.29
+16,Technology,Mark Zuckerberg,United States,Palo Alto,Facebook,Technology,TRUE,M,Zuckerberg,Mark,64400,1984,5,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/14/84,3/17/25,40.84
+17,Diversified,Charles Koch & family,United States,Wichita,Koch Industries,Diversified,FALSE,M,Koch,Charles,59000,1935,11,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/1/35,3/17/25,89.37
+17,Diversified,Julia Koch & family,United States,New York,Koch Industries,Diversified,FALSE,F,Koch,Julia,59000,1962,4,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/12/62,3/17/25,62.93
+19,Fashion & Retail,Jim Walton,United States,Bentonville,Walmart,Fashion & Retail,FALSE,M,Walton,Jim,58800,1948,6,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/7/48,3/17/25,76.77
+20,Fashion & Retail,Rob Walton & family,United States,Bentonville,Walmart,Fashion & Retail,FALSE,M,Walton,Rob,57600,1944,10,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/27/44,3/17/25,80.38
+21,Fashion & Retail,Alice Walton,United States,Fort Worth,Walmart,Fashion & Retail,FALSE,F,Walton,Alice,56700,1949,10,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/7/49,3/17/25,75.44
+22,Media & Entertainment,David Thomson & family,Canada,Toronto,Media,Media & Entertainment,FALSE,M,Thomson,David,54400,1957,6,12,116.76,1.73643E+12,81.9,12.8,24.5,36991981,6/12/57,3/17/25,67.76
+23,Technology,Michael Dell,United States,Austin,Dell Technologies,Technology,TRUE,M,Dell,Michael,50100,1965,2,23,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/23/65,3/17/25,60.06
+24,Diversified,Gautam Adani,India,Ahmedabad,"Infrastructure, commodities",Diversified,TRUE,M,Adani,Gautam,47200,1962,6,24,180.44,2.611E+12,69.4,11.2,49.7,1366417754,6/24/62,3/17/25,62.73
+25,Fashion & Retail,Phil Knight & family,United States,Hillsboro,Nike,Fashion & Retail,TRUE,M,Knight,Phil,45100,1938,2,24,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/24/38,3/17/25,87.06
+26,Technology,Zhang Yiming,China,Beijing,TikTok,Technology,TRUE,M,Zhang,Yiming,45000,1984,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/84,3/17/25,41.21
+27,Fashion & Retail,Dieter Schwarz,Germany,Neckarsulm,Retail,Fashion & Retail,FALSE,M,Schwarz,Dieter,42900,1939,9,24,112.85,3.84563E+12,80.9,11.5,48.8,83132799,9/24/39,3/17/25,85.48
+28,Fashion & Retail,François Pinault & family,France,Paris,Luxury goods,Fashion & Retail,TRUE,M,Pinault,François,40100,1936,8,21,110.05,2.71552E+12,82.5,24.2,60.7,67059887,8/21/36,3/17/25,88.57
+29,Logistics,Klaus-Michael Kuehne,Switzerland,Schindellegi,Shipping,Logistics,FALSE,M,Kuehne,Klaus-Michael,39100,1937,6,2,99.55,7.03082E+11,83.6,10.1,28.8,8574832,6/2/37,3/17/25,87.79
+30,Food & Beverage,Giovanni Ferrero,Belgium,Brussels,"Nutella, chocolates",Food & Beverage,FALSE,M,Ferrero,Giovanni,38900,1964,9,21,117.11,5.29607E+11,81.6,24,55.4,11484055,9/21/64,3/17/25,60.48
+31,Food & Beverage,Jacqueline Mars,United States,The Plains,"Candy, pet food",Food & Beverage,FALSE,F,Mars,Jacqueline,38300,1939,10,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/10/39,3/17/25,85.43
+31,Food & Beverage,John Mars,United States,Jackson,"Candy, pet food",Food & Beverage,FALSE,M,Mars,John,38300,1935,10,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/15/35,3/17/25,89.42
+34,Technology,Ma Huateng,China,Shenzhen,Internet media,Technology,TRUE,M,Ma,Huateng,35300,1971,10,29,125.08,1.991E+13,77,9.4,59.2,1397715000,10/29/71,3/17/25,53.38
+35,Gambling & Casinos,Miriam Adelson & family,United States,Las Vegas,Casinos,Gambling & Casinos,FALSE,F,Adelson,Miriam,35000,1945,10,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/10/45,3/17/25,79.43
+35,Finance & Investments,Ken Griffin,United States,Miami,Hedge funds,Finance & Investments,TRUE,M,Griffin,Ken,35000,1968,10,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/15/68,3/17/25,56.42
+37,Food & Beverage,Mark Mateschitz,Austria,Salzburg,Red Bull,Food & Beverage,FALSE,M,Mateschitz,Mark,34700,1992,5,7,118.06,4.46315E+11,81.6,25.4,51.4,8877067,5/7/92,3/17/25,32.86
+37,Food & Beverage,Mark Mateschitz,Austria,Salzburg,Red Bull,Food & Beverage,FALSE,M,Mateschitz,Mark,34700,1992,5,7,118.06,4.46315E+11,81.6,25.4,51.4,8877067,5/7/92,3/17/25,32.86
+38,Automotive,Robin Zeng,China,Ningde,Batteries,Automotive,TRUE,M,Zeng,Robin,33400,1969,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/69,3/17/25,56.21
+39,Fashion & Retail,Tadashi Yanai & family,Japan,Tokyo,Fashion retail,Fashion & Retail,TRUE,M,Yanai,Tadashi,32600,1949,2,7,105.48,5.08177E+12,84.2,11.9,46.7,126226568,2/7/49,3/17/25,76.1
+40,Diversified,Len Blavatnik,United Kingdom,London,"Music, chemicals",Diversified,TRUE,M,Blavatnik,Len,32100,1957,6,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,6/1/57,3/17/25,67.79
+41,Fashion & Retail,Alain Wertheimer,United States,New York,Chanel,Fashion & Retail,FALSE,M,Wertheimer,Alain,31600,1948,8,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/28/48,3/17/25,76.55
+41,Fashion & Retail,Gerard Wertheimer,United States,New York,Chanel,Fashion & Retail,FALSE,M,Wertheimer,Gerard,31600,1951,1,9,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/9/51,3/17/25,74.18
+43,Logistics,Gianluigi Aponte,Switzerland,Geneva,Shipping,Logistics,TRUE,M,Aponte,Gianluigi,31200,1940,6,27,99.55,7.03082E+11,83.6,10.1,28.8,8574832,6/27/40,3/17/25,84.72
+43,Logistics,Rafaela Aponte-Diamant,Switzerland,Geneva,Shipping,Logistics,TRUE,F,Aponte-Diamant,Rafaela,31200,1945,3,26,99.55,7.03082E+11,83.6,10.1,28.8,8574832,3/26/45,3/17/25,79.98
+45,Technology,Colin Zheng Huang,China,Shanghai,E-commerce,Technology,TRUE,M,Huang,Colin Zheng,30200,1980,2,2,125.08,1.991E+13,77,9.4,59.2,1397715000,2/2/80,3/17/25,45.12
+46,Manufacturing,Reinhold Wuerth & family,Germany,Kuenzelsau,Fasteners,Manufacturing,TRUE,M,Wuerth,Reinhold,29700,1935,4,20,112.85,3.84563E+12,80.9,11.5,48.8,83132799,4/20/35,3/17/25,89.91
+48,Finance & Investments,Jeff Yass,United States,Haverford,"Trading, investments",Finance & Investments,TRUE,M,Yass,Jeff,28500,1958,7,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/17/58,3/17/25,66.67
+49,Finance & Investments,Jim Simons,United States,East Setauket,Hedge funds,Finance & Investments,TRUE,M,Simons,Jim,28100,1938,4,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/25/38,3/17/25,86.89
+50,Finance & Investments,Stephen Schwarzman,United States,New York,Investments,Finance & Investments,TRUE,M,Schwarzman,Stephen,27800,1947,2,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/14/47,3/17/25,78.09
+51,Automotive,Susanne Klatten,Germany,Bad Homburg,"BMW, pharmaceuticals",Automotive,FALSE,F,Klatten,Susanne,27400,1962,4,28,112.85,3.84563E+12,80.9,11.5,48.8,83132799,4/28/62,3/17/25,62.89
+52,Metals & Mining,Gina Rinehart,Australia,Perth,Mining,Metals & Mining,FALSE,F,Rinehart,Gina,27000,1954,2,9,119.8,1.39268E+12,82.7,23,47.4,25766605,2/9/54,3/17/25,71.1
+53,Technology,William Ding,China,Hangzhou,Online games,Technology,TRUE,M,Ding,William,26700,1971,10,1,125.08,1.991E+13,77,9.4,59.2,1397715000,10/1/71,3/17/25,53.46
+54,Metals & Mining,Germán Larrea Mota Velasco & family,Mexico,Mexico City,Mining,Metals & Mining,FALSE,M,Larrea Mota Velasco,Germán,26600,1953,10,26,141.54,1.25829E+12,75,13.1,55.1,126014024,10/26/53,3/17/25,71.39
+55,Technology,Shiv Nadar,India,Delhi,software services,Technology,TRUE,M,Nadar,Shiv,25600,1945,7,18,180.44,2.611E+12,69.4,11.2,49.7,1366417754,7/18/45,3/17/25,79.66
+56,Energy,Low Tuck Kwong,Indonesia,Jakarta,Coal,Energy,TRUE,M,Low Tuck,Kwong,25500,1948,4,17,151.18,1.11919E+12,71.5,10.2,30.1,270203917,4/17/48,3/17/25,76.91
+57,Finance & Investments,Thomas Peterffy,United States,Palm Beach,Discount brokerage,Finance & Investments,TRUE,M,Peterffy,Thomas,25300,1944,9,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/30/44,3/17/25,80.46
+58,Metals & Mining,Andrey Melnichenko & family,United Arab Emirates,Ras Al Khaimah,"Fertilizers, coal",Metals & Mining,TRUE,M,Melnichenko,Andrey,25200,1972,3,8,114.52,4.21142E+11,77.8,0.1,15.9,9770529,3/8/72,3/17/25,53.02
+59,Automotive,Stefan Quandt,Germany,Frankfurt,BMW,Automotive,FALSE,M,Quandt,Stefan,24600,1966,5,9,112.85,3.84563E+12,80.9,11.5,48.8,83132799,5/9/66,3/17/25,58.86
+60,Technology,MacKenzie Scott,United States,Seattle,Amazon,Technology,FALSE,F,Scott,MacKenzie,24400,1970,4,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/7/70,3/17/25,54.94
+61,Finance & Investments,R. Budi Hartono,Indonesia,Kudus,"Banking, tobacco",Finance & Investments,FALSE,M,Hartono,R. Budi,24200,1941,1,1,151.18,1.11919E+12,71.5,10.2,30.1,270203917,1/1/41,3/17/25,84.21
+62,Metals & Mining,Vladimir Potanin,Russia,Moscow,Metals,Metals & Mining,TRUE,M,Potanin,Vladimir,23700,1961,1,3,180.75,1.69988E+12,72.7,11.4,46.2,144373535,1/3/61,3/17/25,64.2
+63,Technology,Jack Ma,China,Hangzhou,E-commerce,Technology,TRUE,M,Ma,Jack,23500,1964,9,10,125.08,1.991E+13,77,9.4,59.2,1397715000,9/10/64,3/17/25,60.51
+64,Manufacturing,He Xiangjian & family,China,Foshan,Home appliances,Manufacturing,TRUE,M,He,Xiangjian,23400,1942,8,11,125.08,1.991E+13,77,9.4,59.2,1397715000,8/11/42,3/17/25,82.6
+65,Metals & Mining,Iris Fontbona & family,Chile,Santiago,Mining,Metals & Mining,FALSE,F,Fontbona,Iris,23100,1943,1,1,131.91,2.82318E+11,80,18.2,34,18952038,1/1/43,3/17/25,82.21
+65,Manufacturing,Michael Hartono,Indonesia,Kudus,"Banking, tobacco",Manufacturing,FALSE,M,Hartono,Michael,23100,1939,10,2,151.18,1.11919E+12,71.5,10.2,30.1,270203917,10/2/39,3/17/25,85.46
+67,Manufacturing,James Ratcliffe,United Kingdom,London,Chemicals,Manufacturing,TRUE,M,Ratcliffe,James,22900,1953,1,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,1/1/53,3/17/25,72.21
+68,Healthcare,Cyrus Poonawalla,India,Pune,Vaccines,Healthcare,FALSE,M,Poonawalla,Cyrus,22600,1941,5,11,180.44,2.611E+12,69.4,11.2,49.7,1366417754,5/11/41,3/17/25,83.85
+69,Telecom,Masayoshi Son,Japan,Tokyo,"Internet, telecom",Telecom,TRUE,M,Son,Masayoshi,22400,1957,8,11,105.48,5.08177E+12,84.2,11.9,46.7,126226568,8/11/57,3/17/25,67.6
+70,Metals & Mining,Vladimir Lisin,Russia,Moscow,"Steel, transport",Metals & Mining,TRUE,M,Lisin,Vladimir,22100,1956,5,7,180.75,1.69988E+12,72.7,11.4,46.2,144373535,5/7/56,3/17/25,68.86
+71,Food & Beverage,Emmanuel Besnier,France,Laval,Cheese,Food & Beverage,FALSE,M,Besnier,Emmanuel,22000,1970,9,18,110.05,2.71552E+12,82.5,24.2,60.7,67059887,9/18/70,3/17/25,54.49
+72,Finance & Investments,Abigail Johnson,United States,Milton,Fidelity,Finance & Investments,FALSE,F,Johnson,Abigail,21600,1961,12,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/19/61,3/17/25,63.24
+72,Energy,Leonid Mikhelson & family,Russia,Moscow,"Gas, chemicals",Energy,TRUE,M,Mikhelson,Leonid,21600,1955,8,11,180.75,1.69988E+12,72.7,11.4,46.2,144373535,8/11/55,3/17/25,69.6
+74,Fashion & Retail,Lukas Walton,United States,Chicago,Walmart,Fashion & Retail,FALSE,M,Walton,Lukas,21200,1986,9,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/19/86,3/17/25,38.49
+74,Service,Wang Wei,China,Shenzhen,Package delivery,Service,TRUE,M,Wang,Wei,21200,1970,10,1,125.08,1.991E+13,77,9.4,59.2,1397715000,10/1/70,3/17/25,54.46
+76,Technology,Jensen Huang,United States,Los Altos,Semiconductors,Technology,TRUE,M,Huang,Jensen,21100,1963,2,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/17/63,3/17/25,62.08
+77,Fashion & Retail,Leonard Lauder,United States,New York,Estee Lauder,Fashion & Retail,FALSE,M,Lauder,Leonard,21000,1933,3,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/19/33,3/17/25,92
+77,Manufacturing,Takemitsu Takizaki,Japan,Osaka,Sensors,Manufacturing,TRUE,M,Takizaki,Takemitsu,21000,1945,6,10,105.48,5.08177E+12,84.2,11.9,46.7,126226568,6/10/45,3/17/25,79.77
+79,Metals & Mining,Alexey Mordashov & family,Russia,Moscow,"Steel, investments",Metals & Mining,TRUE,M,Mordashov,Alexey,20900,1965,9,26,180.75,1.69988E+12,72.7,11.4,46.2,144373535,9/26/65,3/17/25,59.47
+80,Energy,Vagit Alekperov,Russia,Moscow,Oil,Energy,TRUE,M,Alekperov,Vagit,20500,1950,9,1,180.75,1.69988E+12,72.7,11.4,46.2,144373535,9/1/50,3/17/25,74.54
+81,Healthcare,"Thomas Frist, Jr. & family",United States,Nashville,Hospitals,Healthcare,TRUE,M,Frist,Thomas,20200,1938,8,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/12/38,3/17/25,86.6
+82,Metals & Mining,Andrew Forrest,Australia,Perth,Mining,Metals & Mining,TRUE,M,Forrest,Andrew,19600,1961,11,18,119.8,1.39268E+12,82.7,23,47.4,25766605,11/18/61,3/17/25,63.33
+83,Finance & Investments,Ray Dalio,United States,Greenwich,Hedge funds,Finance & Investments,TRUE,M,Dalio,Ray,19100,1949,8,8,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/8/49,3/17/25,75.61
+84,Automotive,Eric Li,China,Hangzhou,Automobiles,Automotive,TRUE,M,Li,Eric,19000,1963,6,1,125.08,1.991E+13,77,9.4,59.2,1397715000,6/1/63,3/17/25,61.79
+84,Metals & Mining,Wang Wenyin,China,Shenzhen,"Mining, copper products",Metals & Mining,TRUE,M,Wang,Wenyin,19000,1968,3,1,125.08,1.991E+13,77,9.4,59.2,1397715000,3/1/68,3/17/25,57.04
+86,Food & Beverage,Qin Yinglin,China,Nanyang,Pig breeding,Food & Beverage,TRUE,M,Qin,Yinglin,18900,1965,4,17,125.08,1.991E+13,77,9.4,59.2,1397715000,4/17/65,3/17/25,59.92
+88,Automotive,Wang Chuanfu,China,Shenzhen,"Batteries, automobiles",Automotive,TRUE,M,Wang,Chuanfu,18700,1966,2,15,125.08,1.991E+13,77,9.4,59.2,1397715000,2/15/66,3/17/25,59.08
+89,Energy,Harold Hamm & family,United States,Oklahoma City,Oil & gas,Energy,TRUE,M,Hamm,Harold,18500,1945,12,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/11/45,3/17/25,79.26
+89,Finance & Investments,David Tepper,United States,Palm Beach,Hedge funds,Finance & Investments,TRUE,M,Tepper,David,18500,1957,9,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/11/57,3/17/25,67.51
+89,Energy,Gennady Timchenko,Russia,Moscow,"Oil, gas",Energy,TRUE,M,Timchenko,Gennady,18500,1952,11,9,180.75,1.69988E+12,72.7,11.4,46.2,144373535,11/9/52,3/17/25,72.35
+92,Finance & Investments,Daniel Gilbert,United States,Franklin,Quicken Loans,Finance & Investments,TRUE,M,Gilbert,Daniel,18000,1962,1,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/17/62,3/17/25,63.16
+93,Metals & Mining,Lakshmi Mittal,United Kingdom,London,Steel,Metals & Mining,FALSE,M,Mittal,Lakshmi,17700,1950,6,15,119.62,2.82711E+12,81.3,25.5,30.6,66834405,6/15/50,3/17/25,74.75
+94,Finance & Investments,Steve Cohen,United States,Greenwich,Hedge funds,Finance & Investments,TRUE,M,Cohen,Steve,17500,1956,6,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/11/56,3/17/25,68.76
+94,Finance & Investments,Carl Icahn,United States,Indian Creek,Investments,Finance & Investments,TRUE,M,Icahn,Carl,17500,1936,2,16,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/16/36,3/17/25,89.08
+94,Metals & Mining,Savitri Jindal & family,India,Hisar,Steel,Metals & Mining,FALSE,F,Jindal,Savitri,17500,1950,3,20,180.44,2.611E+12,69.4,11.2,49.7,1366417754,3/20/50,3/17/25,74.99
+97,Real Estate,Donald Bren,United States,Newport Beach,Real estate,Real Estate,TRUE,M,Bren,Donald,17400,1932,5,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/11/32,3/17/25,92.85
+97,Fashion & Retail,"John Menard, Jr.",United States,Eau Claire,Home improvement stores,Fashion & Retail,TRUE,M,Menard,John,17400,1940,1,22,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/22/40,3/17/25,85.15
+99,Media & Entertainment,Rupert Murdoch & family,United States,New York,"Newspapers, TV network",Media & Entertainment,FALSE,M,Murdoch,Rupert,17100,1931,3,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/11/31,3/17/25,94.02
+100,Finance & Investments,Vicky Safra & family,Switzerland,Crans-Montana,Banking,Finance & Investments,FALSE,F,Safra,Vicky,16700,1953,1,1,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/1/53,3/17/25,72.21
+101,Fashion & Retail,"Theo Albrecht, Jr. & family",Germany,Mulheim an der Ruhr,"Aldi, Trader Joe's",Fashion & Retail,FALSE,M,Albrecht,Theo,16500,1951,1,1,112.85,3.84563E+12,80.9,11.5,48.8,83132799,1/1/51,3/17/25,74.21
+101,Finance & Investments,Renata Kellnerova & family,Czech Republic,Prague,"Finance, telecommunications",Finance & Investments,FALSE,F,Kellnerova,Renata,16500,1967,7,4,116.48,2.46489E+11,79,14.9,46.1,10669709,7/4/67,3/17/25,57.7
+101,Finance & Investments,Renata Kellnerova & family,Czech Republic,Prague,"Finance, telecommunications",Finance & Investments,FALSE,F,Kellnerova,Renata,16500,1967,7,4,116.48,2.46489E+11,79,14.9,46.1,10669709,7/4/67,3/17/25,57.7
+103,Healthcare,Li Xiting,China,Shenzhen,medical devices,Healthcare,TRUE,M,Li,Xiting,16300,1951,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/51,3/17/25,74.21
+104,Fashion & Retail,Stefan Persson,Sweden,Stockholm,H&M,Fashion & Retail,FALSE,M,Persson,Stefan,16200,1947,10,4,110.51,5.30833E+11,82.5,27.9,49.1,10285453,10/4/47,3/17/25,77.45
+104,Technology,Eric Schmidt,United States,Atherton,Google,Technology,TRUE,M,Schmidt,Eric,16200,1955,4,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/27/55,3/17/25,69.89
+106,Finance & Investments,Michael Platt,Switzerland,Geneva,Hedge funds,Finance & Investments,TRUE,M,Platt,Michael,16000,1968,3,18,99.55,7.03082E+11,83.6,10.1,28.8,8574832,3/18/68,3/17/25,57
+107,Food & Beverage,Pang Kang,China,Foshan,Soy sauce,Food & Beverage,TRUE,M,Pang,Kang,15900,1956,1,19,125.08,1.991E+13,77,9.4,59.2,1397715000,1/19/56,3/17/25,69.16
+108,Food & Beverage,Jorge Paulo Lemann & family,Switzerland,Zurich,Beer,Food & Beverage,TRUE,M,Lemann,Jorge Paulo,15800,1939,8,26,99.55,7.03082E+11,83.6,10.1,28.8,8574832,8/26/39,3/17/25,85.56
+112,Healthcare,Dilip Shanghvi,India,Mumbai,Pharmaceuticals,Healthcare,TRUE,M,Shanghvi,Dilip,15600,1955,10,1,180.44,2.611E+12,69.4,11.2,49.7,1366417754,10/1/55,3/17/25,69.46
+113,Technology,Robert Pera,United States,San Jose,Wireless networking,Technology,TRUE,M,Pera,Robert,15500,1978,3,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/10/78,3/17/25,47.02
+114,Fashion & Retail,Radhakishan Damani,India,Mumbai,"Retail, investments",Fashion & Retail,TRUE,M,Damani,Radhakishan,15300,1955,1,1,180.44,2.611E+12,69.4,11.2,49.7,1366417754,1/1/55,3/17/25,70.21
+115,Automotive,Huang Shilin,China,Ningde,Batteries,Automotive,TRUE,M,Huang,Shilin,15200,1967,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/67,3/17/25,58.21
+116,Diversified,Dhanin Chearavanont,Thailand,Bangkok,Diversified,Diversified,FALSE,M,Chearavanont,Dhanin,14900,1939,4,19,113.27,5.4365E+11,76.9,14.9,29.5,69625582,4/19/39,3/17/25,85.91
+116,Fashion & Retail,David Green & family,United States,Oklahoma City,Retail,Fashion & Retail,TRUE,M,Green,David,14900,1941,11,13,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/13/41,3/17/25,83.34
+118,Food & Beverage,Charoen Sirivadhanabhakdi,Thailand,Bangkok,"Alcohol, real estate",Food & Beverage,TRUE,M,Sirivadhanabhakdi,Charoen,14800,1944,5,2,113.27,5.4365E+11,76.9,14.9,29.5,69625582,5/2/44,3/17/25,80.87
+119,Food & Beverage,Charlene de Carvalho-Heineken & family,United Kingdom,London,Heineken,Food & Beverage,FALSE,F,de Carvalho-Heineken,Charlene,14700,1954,6,30,119.62,2.82711E+12,81.3,25.5,30.6,66834405,6/30/54,3/17/25,70.71
+120,Healthcare,Xu Hang,China,Shenzhen,Medical devices,Healthcare,TRUE,M,Xu,Hang,14600,1962,5,22,125.08,1.991E+13,77,9.4,59.2,1397715000,5/22/62,3/17/25,62.82
+121,Automotive,Wei Jianjun & family,China,Baoding,Automobiles,Automotive,TRUE,M,Wei,Jianjun,14500,1964,3,1,125.08,1.991E+13,77,9.4,59.2,1397715000,3/1/64,3/17/25,61.04
+123,Manufacturing,Goh Cheng Liang,Singapore,Singapore,Paints,Manufacturing,TRUE,M,Goh,Cheng Liang,14300,1927,6,27,114.41,3.72063E+11,83.1,13.1,21,5703569,6/27/27,3/17/25,97.72
+124,Diversified,Kumar Birla,India,Mumbai,Commodities,Diversified,FALSE,M,Birla,Kumar,14200,1967,6,14,180.44,2.611E+12,69.4,11.2,49.7,1366417754,6/14/67,3/17/25,57.76
+124,Manufacturing,Aliko Dangote,Nigeria,Lagos,"Cement, sugar",Manufacturing,TRUE,M,Dangote,Aliko,14200,1957,4,10,267.51,4.4812E+11,54.3,1.5,34.8,200963599,4/10/57,3/17/25,67.93
+127,Diversified,Idan Ofer,United Kingdom,London,Shipping,Diversified,FALSE,M,Ofer,Idan,14000,1955,10,2,119.62,2.82711E+12,81.3,25.5,30.6,66834405,10/2/55,3/17/25,69.46
+128,Healthcare,Chen Bang,China,Changsha,Hospitals,Healthcare,TRUE,M,Chen,Bang,13900,1965,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/65,3/17/25,59.54
+130,Logistics,John Fredriksen,United Kingdom,London,Shipping,Logistics,TRUE,M,Fredriksen,John,13700,1945,2,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,2/1/45,3/17/25,80.12
+130,Construction & Engineering,Diane Hendricks,United States,Afton,Building supplies,Construction & Engineering,TRUE,F,Hendricks,Diane,13700,1947,3,2,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/2/47,3/17/25,78.04
+130,Technology,Jan Koum,United States,Atherton,WhatsApp,Technology,TRUE,M,Koum,Jan,13700,1976,2,24,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/24/76,3/17/25,49.06
+133,Sports,Jerry Jones,United States,Dallas,Dallas Cowboys,Sports,TRUE,M,Jones,Jerry,13300,1942,10,13,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/13/42,3/17/25,82.43
+133,Energy,George Kaiser,United States,Tulsa,"Oil & gas, banking",Energy,FALSE,M,Kaiser,George,13300,1942,7,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/29/42,3/17/25,82.63
+136,Automotive,Lu Xiangyang,China,Guangzhou,"Automobiles, batteries",Automotive,TRUE,M,Lu,Xiangyang,13200,1962,12,28,125.08,1.991E+13,77,9.4,59.2,1397715000,12/28/62,3/17/25,62.22
+137,Real Estate,Harry Triguboff,Australia,Sydney,Real estate,Real Estate,TRUE,M,Triguboff,Harry,13100,1933,3,3,119.8,1.39268E+12,82.7,23,47.4,25766605,3/3/33,3/17/25,92.04
+138,Finance & Investments,Uday Kotak,India,Mumbai,Banking,Finance & Investments,TRUE,M,Kotak,Uday,12900,1959,3,15,180.44,2.611E+12,69.4,11.2,49.7,1366417754,3/15/59,3/17/25,66.01
+138,Sports,Stanley Kroenke,United States,Electra,"Sports, real estate",Sports,TRUE,M,Kroenke,Stanley,12900,1947,7,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/29/47,3/17/25,77.63
+140,Energy,Mikhail Fridman,United Kingdom,London,"Oil, banking, telecom",Energy,TRUE,M,Fridman,Mikhail,12600,1964,4,21,119.62,2.82711E+12,81.3,25.5,30.6,66834405,4/21/64,3/17/25,60.9
+141,Energy,Sarath Ratanavadi,Thailand,Bangkok,Energy,Energy,TRUE,M,Ratanavadi,Sarath,12300,1965,7,12,113.27,5.4365E+11,76.9,14.9,29.5,69625582,7/12/65,3/17/25,59.68
+142,Metals & Mining,Dang Yanbao,China,Yinchuan,Coal,Metals & Mining,TRUE,M,Dang,Yanbao,12200,1973,2,1,125.08,1.991E+13,77,9.4,59.2,1397715000,2/1/73,3/17/25,52.12
+142,Healthcare,Jiang Rensheng & family,China,Chongqing,Vaccines,Healthcare,TRUE,M,Jiang,Rensheng,12200,1953,10,8,125.08,1.991E+13,77,9.4,59.2,1397715000,10/8/53,3/17/25,71.44
+144,Automotive,Shahid Khan,United States,Naples,Auto parts,Automotive,TRUE,M,Khan,Shahid,12100,1950,7,18,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/18/50,3/17/25,74.66
+145,Technology,Laurene Powell Jobs & family,United States,Palo Alto,"Apple, Disney",Technology,FALSE,F,Powell Jobs,Laurene,12000,1963,11,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/6/63,3/17/25,61.36
+147,Real Estate,Stephen Ross,United States,New York,Real estate,Real Estate,TRUE,M,Ross,Stephen,11600,1940,5,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/10/40,3/17/25,84.85
+148,Technology,Pavel Durov,United Arab Emirates,Dubai,Messaging app,Technology,TRUE,M,Durov,Pavel,11500,1984,10,10,114.52,4.21142E+11,77.8,0.1,15.9,9770529,10/10/84,3/17/25,40.43
+148,Healthcare,Andreas Struengmann & family,Germany,Tegernsee,Pharmaceuticals,Healthcare,TRUE,M,Struengmann,Andreas,11500,1950,2,16,112.85,3.84563E+12,80.9,11.5,48.8,83132799,2/16/50,3/17/25,75.08
+148,Healthcare,Thomas Struengmann & family,Germany,Tegernsee,Pharmaceuticals,Healthcare,TRUE,M,Struengmann,Thomas,11500,1950,2,16,112.85,3.84563E+12,80.9,11.5,48.8,83132799,2/16/50,3/17/25,75.08
+151,Food & Beverage,Liu Hanyuan,China,Chengdu,Agribusiness,Food & Beverage,TRUE,M,Liu,Hanyuan,11400,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+151,Fashion & Retail,Michael Rubin,United States,Bryn Mawr,Online retail,Fashion & Retail,TRUE,M,Rubin,Michael,11400,1972,7,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/21/72,3/17/25,52.65
+153,Finance & Investments,Israel Englander,United States,New York,Hedge funds,Finance & Investments,TRUE,M,Englander,Israel,11300,1948,9,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/30/48,3/17/25,76.46
+153,Manufacturing,Viatcheslav Kantor,Israel,Herzliya,"Fertilizer, real estate",Manufacturing,TRUE,M,Kantor,Viatcheslav,11300,1953,9,8,108.15,3.95099E+11,82.8,23.1,25.3,9053300,9/8/53,3/17/25,71.52
+153,Manufacturing,Anthony Pratt,Australia,Melbourne,Manufacturing,Manufacturing,FALSE,M,Pratt,Anthony,11300,1960,4,11,119.8,1.39268E+12,82.7,23,47.4,25766605,4/11/60,3/17/25,64.93
+153,Finance & Investments,Mikhail Prokhorov,Switzerland,Frauenfeld,Investments,Finance & Investments,TRUE,M,Prokhorov,Mikhail,11300,1965,5,3,99.55,7.03082E+11,83.6,10.1,28.8,8574832,5/3/65,3/17/25,59.87
+157,Fashion & Retail,Giorgio Armani,Italy,Milan,Luxury goods,Fashion & Retail,TRUE,M,Armani,Giorgio,11100,1934,7,11,110.62,2.00124E+12,82.9,24.3,59.1,60297396,7/11/34,3/17/25,90.68
+157,Fashion & Retail,Johann Rupert & family,South Africa,Cape Town,Luxury goods,Fashion & Retail,FALSE,M,Rupert,Johann,11100,1950,6,1,158.93,3.51432E+11,63.9,27.5,29.2,58558270,6/1/50,3/17/25,74.79
+159,Technology,Zhang Zhidong,China,Shenzhen,Internet media,Technology,TRUE,M,Zhang,Zhidong,11000,1972,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/72,3/17/25,53.21
+161,Finance & Investments,Philip Anschutz,United States,Denver,"Energy, sports, entertainment",Finance & Investments,FALSE,M,Anschutz,Philip,10900,1939,12,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/28/39,3/17/25,85.22
+161,Fashion & Retail,Judy Love & family,United States,Oklahoma City,Gas stations,Fashion & Retail,TRUE,F,Love,Judy,10900,1937,6,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/17/37,3/17/25,87.75
+161,Fashion & Retail,Ricardo Salinas Pliego & family,Mexico,Mexico City,"Retail, media",Fashion & Retail,FALSE,M,Salinas Pliego,Ricardo,10900,1955,10,19,141.54,1.25829E+12,75,13.1,55.1,126014024,10/19/55,3/17/25,69.41
+164,Media & Entertainment,Donald Newhouse,United States,New York,Media,Media & Entertainment,FALSE,M,Newhouse,Donald,10700,1929,8,5,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/5/29,3/17/25,95.61
+165,Sports,Robert Kraft,United States,Brookline,"Manufacturing, New England Patriots",Sports,TRUE,M,Kraft,Robert,10600,1941,6,5,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/5/41,3/17/25,83.78
+165,Food & Beverage,Marcel Herrmann Telles,Brazil,Sao Paulo,Beer,Food & Beverage,TRUE,M,Telles,Marcel Herrmann,10600,1950,1,1,167.4,1.83976E+12,75.7,14.2,65.1,212559417,1/1/50,3/17/25,75.21
+167,Finance & Investments,Suleiman Kerimov & family,Russia,Moscow,Gold,Finance & Investments,TRUE,M,Kerimov & family,Suleiman,10500,1966,3,12,180.75,1.69988E+12,72.7,11.4,46.2,144373535,3/12/66,3/17/25,59.01
+167,Fashion & Retail,Sky Xu,China,Guangzhou,E-commerce,Fashion & Retail,TRUE,M,Xu,Sky,10500,1984,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/84,3/17/25,41.21
+167,Finance & Investments,Changpeng Zhao,United Arab Emirates,Dubai,Cryptocurrency exchange,Finance & Investments,TRUE,M,Zhao,Changpeng,10500,1977,9,10,114.52,4.21142E+11,77.8,0.1,15.9,9770529,9/10/77,3/17/25,47.52
+170,Finance & Investments,Andrew Beal,United States,Dallas,"Banks, real estate",Finance & Investments,TRUE,M,Beal,Andrew,10300,1952,11,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/29/52,3/17/25,72.29
+171,Technology,Mike Cannon-Brookes,Australia,Sydney,Software,Technology,TRUE,M,Cannon-Brookes,Mike,10200,1979,11,17,119.8,1.39268E+12,82.7,23,47.4,25766605,11/17/79,3/17/25,45.33
+171,Healthcare,Carl Cook,United States,Bloomington,Medical devices,Healthcare,FALSE,M,Cook,Carl,10200,1962,8,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/19/62,3/17/25,62.58
+171,Technology,David Duffield,United States,Incline Village,Business software,Technology,TRUE,M,Duffield,David,10200,1940,9,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/21/40,3/17/25,84.48
+171,Energy,Jeffery Hildebrand,United States,Houston,Oil,Energy,TRUE,M,Hildebrand,Jeffery,10200,1959,3,5,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/5/59,3/17/25,66.03
+171,Manufacturing,Viktor Rashnikov,Russia,Magnitogorsk,Steel,Manufacturing,TRUE,M,Rashnikov,Viktor,10200,1948,10,13,180.75,1.69988E+12,72.7,11.4,46.2,144373535,10/13/48,3/17/25,76.42
+171,Technology,Eduardo Saverin,Singapore,Singapore,Facebook,Technology,TRUE,M,Saverin,Eduardo,10200,1982,3,19,114.41,3.72063E+11,83.1,13.1,21,5703569,3/19/82,3/17/25,43
+171,Automotive,Georg Schaeffler,Germany,Herzogenaurach,Auto parts,Automotive,FALSE,M,Schaeffler,Georg,10200,1964,10,19,112.85,3.84563E+12,80.9,11.5,48.8,83132799,10/19/64,3/17/25,60.41
+171,Fashion & Retail,Christy Walton,United States,Jackson,Walmart,Fashion & Retail,FALSE,F,Walton,Christy,10200,1949,2,8,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/8/49,3/17/25,76.1
+179,Technology,Scott Farquhar,Australia,Sydney,Software,Technology,TRUE,M,Farquhar,Scott,10100,1979,12,17,119.8,1.39268E+12,82.7,23,47.4,25766605,12/17/79,3/17/25,45.25
+179,Diversified,Quek Leng Chan,Malaysia,Kuala Lumpur,"Banking, property",Diversified,FALSE,M,Quek,Leng Chan,10100,1941,8,12,121.46,3.64702E+11,76,12,38.7,32447385,8/12/41,3/17/25,83.6
+179,Real Estate,Wu Yajun,China,Beijing,Real estate,Real Estate,TRUE,F,Wu,Yajun,10100,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+182,Energy,Autry Stephens,United States,Midland,Oil,Energy,TRUE,M,Stephens,Autry,10000,1938,3,8,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/8/38,3/17/25,87.03
+183,Service,Liu Yongxing,China,Shanghai,Diversified,Service,TRUE,M,Liu,Yongxing,9900,1948,6,1,125.08,1.991E+13,77,9.4,59.2,1397715000,6/1/48,3/17/25,76.79
+184,Diversified,Vinod Adani,United Arab Emirates,Dubai,"Infrastructure, commodities",Diversified,TRUE,M,Adani,Vinod,9800,1949,1,10,114.52,4.21142E+11,77.8,0.1,15.9,9770529,1/10/49,3/17/25,76.18
+184,Fashion & Retail,Nicolas Puech,Switzerland,Martigny,Hermes,Fashion & Retail,FALSE,M,Puech,Nicolas,9800,1943,1,29,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/29/43,3/17/25,82.13
+184,Logistics,"Jacques Saadé, Jr.",France,Marseille,Shipping,Logistics,FALSE,M,Saadé,Jacques,9800,1971,8,10,110.05,2.71552E+12,82.5,24.2,60.7,67059887,8/10/71,3/17/25,53.6
+184,Logistics,Rodolphe Saadé,France,Marseille,Shipping,Logistics,FALSE,M,Saadé,Rodolphe,9800,1970,3,3,110.05,2.71552E+12,82.5,24.2,60.7,67059887,3/3/70,3/17/25,55.04
+184,Logistics,Tanya Saadé Zeenny,France,Marseille,Shipping,Logistics,FALSE,F,Saadé Zeenny,Tanya,9800,1968,2,1,110.05,2.71552E+12,82.5,24.2,60.7,67059887,2/1/68,3/17/25,57.12
+184,Finance & Investments,Melker Schorling & family,Sweden,Stockholm,Investments,Finance & Investments,TRUE,M,Schorling,Melker,9800,1947,5,15,110.51,5.30833E+11,82.5,27.9,49.1,10285453,5/15/47,3/17/25,77.84
+190,Manufacturing,Andrei Guriev & family,Russia,Moscow,Fertilizers,Manufacturing,TRUE,M,Guriev & family,Andrei,9700,1960,3,24,180.75,1.69988E+12,72.7,11.4,46.2,144373535,3/24/60,3/17/25,64.98
+190,Finance & Investments,Michael Kim,South Korea,Seoul,Private equity,Finance & Investments,TRUE,M,Kim,Michael,9700,1963,10,1,115.16,2.029E+12,82.6,15.6,33.2,51709098,10/1/63,3/17/25,61.46
+190,Technology,Lei Jun,China,Beijing,Smartphones,Technology,TRUE,M,Lei,Jun,9700,1969,12,16,125.08,1.991E+13,77,9.4,59.2,1397715000,12/16/69,3/17/25,55.25
+190,Manufacturing,Friedhelm Loh,Germany,Haiger,Manufacturing,Manufacturing,FALSE,M,Loh,Friedhelm,9700,1946,8,15,112.85,3.84563E+12,80.9,11.5,48.8,83132799,8/15/46,3/17/25,78.59
+190,Healthcare,Sun Piaoyang,China,Lianyungang,Pharmaceuticals,Healthcare,TRUE,M,Sun,Piaoyang,9700,1958,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/58,3/17/25,66.54
+190,Healthcare,Sun Piaoyang,China,Lianyungang,Pharmaceuticals,Healthcare,TRUE,M,Sun,Piaoyang,9700,1958,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/58,3/17/25,66.54
+190,Healthcare,Sun Piaoyang,China,Lianyungang,Pharmaceuticals,Healthcare,TRUE,M,Sun,Piaoyang,9700,1958,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/58,3/17/25,66.54
+195,Technology,Rick Cohen & family,United States,Keene,Warehouse automation,Technology,FALSE,M,Cohen,Rick,9600,1952,7,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/25/52,3/17/25,72.64
+195,Energy,Jin Baofang,China,Xingtai,Solar panels,Energy,TRUE,M,Jin,Baofang,9600,1952,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/52,3/17/25,72.54
+195,Manufacturing,Luo Liguo & family,China,Ningbo,Chemicals,Manufacturing,TRUE,M,Luo,Liguo,9600,1956,3,1,125.08,1.991E+13,77,9.4,59.2,1397715000,3/1/56,3/17/25,69.04
+195,Food & Beverage,Marijke Mars,United States,Los Angeles,"Candy, pet food",Food & Beverage,FALSE,F,Mars,Marijke,9600,1964,7,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/28/64,3/17/25,60.63
+195,Food & Beverage,Pamela Mars,United States,Alexandria,"Candy, pet food",Food & Beverage,FALSE,F,Mars,Pamela,9600,1960,8,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/1/60,3/17/25,64.62
+195,Food & Beverage,Valerie Mars,United States,New York,"Candy, pet food",Food & Beverage,FALSE,F,Mars,Valerie,9600,1959,1,26,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/26/59,3/17/25,66.14
+195,Food & Beverage,Victoria Mars,United States,Philadelphia,"Candy, pet food",Food & Beverage,FALSE,F,Mars,Victoria,9600,1956,12,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/15/56,3/17/25,68.25
+202,Finance & Investments,Vincent Bolloré & family,France,Paris,Investments,Finance & Investments,FALSE,M,Bolloré,Vincent,9500,1952,4,1,110.05,2.71552E+12,82.5,24.2,60.7,67059887,4/1/52,3/17/25,72.96
+202,Diversified,Jim Pattison,Canada,Vancouver,Diversified,Diversified,TRUE,M,Pattison,Jim,9500,1928,10,1,116.76,1.73643E+12,81.9,12.8,24.5,36991981,10/1/28,3/17/25,96.46
+204,Healthcare,Ernesto Bertarelli,Switzerland,Gstaad,"Biotech, investments",Healthcare,FALSE,M,Bertarelli,Ernesto,9400,1965,9,22,99.55,7.03082E+11,83.6,10.1,28.8,8574832,9/22/65,3/17/25,59.48
+204,Technology,Wang Xing,China,Beijing,Food delivery,Technology,TRUE,M,Wang,Xing,9400,1979,2,18,125.08,1.991E+13,77,9.4,59.2,1397715000,2/18/79,3/17/25,46.07
+206,Technology,Brian Chesky,United States,San Francisco,Airbnb,Technology,TRUE,M,Chesky,Brian,9300,1981,8,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/29/81,3/17/25,43.55
+206,Manufacturing,James Dyson,United Kingdom,Gloucestershire,Vacuums,Manufacturing,TRUE,M,Dyson,James,9300,1947,5,2,119.62,2.82711E+12,81.3,25.5,30.6,66834405,5/2/47,3/17/25,77.87
+208,Diversified,Roman Abramovich & family,Russia,Moscow,"Steel, investments",Diversified,TRUE,M,Abramovich,Roman,9200,1966,10,24,180.75,1.69988E+12,72.7,11.4,46.2,144373535,10/24/66,3/17/25,58.4
+208,Diversified,Antonia Ax:son Johnson & family,Sweden,Stockholm,Diversified,Diversified,FALSE,F,Ax:son Johnson,Antonia,9200,1943,9,6,110.51,5.30833E+11,82.5,27.9,49.1,10285453,9/6/43,3/17/25,81.53
+208,Energy,Daniel Kretinsky,Czech Republic,Prague,"Energy, investments",Energy,TRUE,M,Kretinsky,Daniel,9200,1975,7,9,116.48,2.46489E+11,79,14.9,46.1,10669709,7/9/75,3/17/25,49.69
+208,Media & Entertainment,John Malone,United States,Elizabeth,Cable television,Media & Entertainment,TRUE,M,Malone,John,9200,1941,3,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/7/41,3/17/25,84.03
+208,Technology,Azim Premji,India,Bangalore,Software services,Technology,FALSE,M,Premji,Azim,9200,1945,7,24,180.44,2.611E+12,69.4,11.2,49.7,1366417754,7/24/45,3/17/25,79.65
+208,Finance & Investments,Charles Schwab,United States,Woodside,Discount brokerage,Finance & Investments,TRUE,M,Schwab,Charles,9200,1937,7,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/29/37,3/17/25,87.63
+208,Fashion & Retail,Eric Smidt,United States,Beverly Hills,Hardware stores,Fashion & Retail,TRUE,M,Smidt,Eric,9200,1960,1,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/1/60,3/17/25,65.21
+215,Technology,David Cheriton,United States,Palo Alto,Google,Technology,TRUE,M,Cheriton,David,9000,1951,3,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/29/51,3/17/25,73.97
+215,Metals & Mining,Ivan Glasenberg,Switzerland,Ruschlikon,Mining,Metals & Mining,TRUE,M,Glasenberg,Ivan,9000,1957,1,7,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/7/57,3/17/25,68.19
+215,Real Estate,Alexander Otto,Germany,Hamburg,Real estate,Real Estate,FALSE,M,Otto,Alexander,9000,1967,7,7,112.85,3.84563E+12,80.9,11.5,48.8,83132799,7/7/67,3/17/25,57.69
+215,Food & Beverage,Anthony von Mandl,Canada,Vancouver,Alcoholic beverages,Food & Beverage,TRUE,M,von Mandl,Anthony,9000,1950,3,10,116.76,1.73643E+12,81.9,12.8,24.5,36991981,3/10/50,3/17/25,75.02
+215,Manufacturing,Wang Liping & family,China,Changzhou,Hydraulic machinery,Manufacturing,TRUE,M,Wang,Liping,9000,1966,2,24,125.08,1.991E+13,77,9.4,59.2,1397715000,2/24/66,3/17/25,59.06
+220,Food & Beverage,Finn Rausing,United Kingdom,London,Packaging,Food & Beverage,FALSE,M,Rausing,Finn,8900,1955,1,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,1/1/55,3/17/25,70.21
+220,Food & Beverage,Jorn Rausing,United Kingdom,Surrey,Packaging,Food & Beverage,FALSE,M,Rausing,Jorn,8900,1960,1,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,1/1/60,3/17/25,65.21
+220,Food & Beverage,Kirsten Rausing,United Kingdom,Newmarket,Packaging,Food & Beverage,FALSE,F,Rausing,Kirsten,8900,1952,6,6,119.62,2.82711E+12,81.3,25.5,30.6,66834405,6/6/52,3/17/25,72.78
+223,Fashion & Retail,Tatyana Bakalchuk,Russia,Moscow region,Ecommerce,Fashion & Retail,TRUE,F,Bakalchuk,Tatyana,8800,1975,10,16,180.75,1.69988E+12,72.7,11.4,46.2,144373535,10/16/75,3/17/25,49.42
+223,Technology,John Doerr,United States,Woodside,Venture capital,Technology,TRUE,M,Doerr,John,8800,1951,6,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/29/51,3/17/25,73.72
+223,Technology,Richard Liu,China,Beijing,E-commerce,Technology,TRUE,M,Liu,Richard,8800,1974,3,10,125.08,1.991E+13,77,9.4,59.2,1397715000,3/10/74,3/17/25,51.02
+223,Technology,Dustin Moskovitz,United States,San Francisco,Facebook,Technology,TRUE,M,Moskovitz,Dustin,8800,1984,5,22,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/22/84,3/17/25,40.82
+223,Technology,Pierre Omidyar,United States,Honolulu,"EBay, PayPal",Technology,TRUE,M,Omidyar,Pierre,8800,1967,6,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/21/67,3/17/25,57.74
+223,Energy,Pei Zhenhua,China,Ningde,Batteries,Energy,TRUE,M,Pei,Zhenhua,8800,1959,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/59,3/17/25,66.21
+223,Energy,Carrie Perrodo & family,United Kingdom,London,Oil,Energy,FALSE,F,Perrodo,Carrie,8800,1951,1,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,1/1/51,3/17/25,74.21
+230,Manufacturing,Chen Jianhua,China,Wujiang,Chemicals,Manufacturing,TRUE,M,Chen,Jianhua,8700,1971,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/71,3/17/25,54.21
+230,Fashion & Retail,Michael Otto,Germany,Hamburg,"Retail, real estate",Fashion & Retail,FALSE,M,Otto,Michael,8700,1943,4,12,112.85,3.84563E+12,80.9,11.5,48.8,83132799,4/12/43,3/17/25,81.93
+232,Finance & Investments,Leon Black,United States,New York,Private equity,Finance & Investments,TRUE,M,Black,Leon,8600,1951,7,31,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/31/51,3/17/25,73.63
+232,Finance & Investments,Graeme Hart,New Zealand,Auckland,Investments,Finance & Investments,TRUE,M,Hart,Graeme,8600,1955,6,6,114.24,2.06929E+11,81.9,29,34.6,4841000,6/6/55,3/17/25,69.78
+232,Food & Beverage,Ravi Jaipuria,India,Delhi,"Soft drinks, fast food",Food & Beverage,FALSE,M,Jaipuria,Ravi,8600,1954,11,28,180.44,2.611E+12,69.4,11.2,49.7,1366417754,11/28/54,3/17/25,70.3
+232,Technology,Hasso Plattner & family,Germany,Heidelberg,Software,Technology,TRUE,M,Plattner,Hasso,8600,1944,1,21,112.85,3.84563E+12,80.9,11.5,48.8,83132799,1/21/44,3/17/25,81.15
+232,Food & Beverage,Carlos Alberto Sicupira & family,Switzerland,St. Gallen,Beer,Food & Beverage,TRUE,M,Sicupira,Carlos Alberto,8600,1948,1,1,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/1/48,3/17/25,77.21
+232,Real Estate,Manuel Villar,Philippines,Manila,Real estate,Real Estate,TRUE,M,Villar,Manuel,8600,1949,12,13,129.61,3.76796E+11,71.1,14,43.1,108116615,12/13/49,3/17/25,75.26
+232,Technology,Andreas von Bechtolsheim & family,United States,Palo Alto,Google,Technology,TRUE,M,von Bechtolsheim,Andreas,8600,1955,9,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/30/55,3/17/25,69.46
+239,Finance & Investments,"Chase Coleman, III.",United States,New York,Investments,Finance & Investments,TRUE,M,Coleman,Chase,8500,1975,6,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/21/75,3/17/25,49.74
+239,Fashion & Retail,Ann Walton Kroenke,United States,Electra,Walmart,Fashion & Retail,FALSE,F,Kroenke,Ann Walton,8500,1948,12,18,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/18/48,3/17/25,76.24
+239,Manufacturing,Li Zhenguo & family,China,Xi'an,Solar wafers and modules,Manufacturing,TRUE,M,Li,Zhenguo,8500,1968,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/68,3/17/25,57.21
+242,Media & Entertainment,Jim Kennedy,United States,Atlanta,"Media, automotive",Media & Entertainment,FALSE,M,Kennedy,Jim,8400,1947,11,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/29/47,3/17/25,77.3
+242,Metals & Mining,Nicky Oppenheimer & family,South Africa,Johannesburg,Diamonds,Metals & Mining,FALSE,M,Oppenheimer,Nicky,8400,1945,6,8,158.93,3.51432E+11,63.9,27.5,29.2,58558270,6/8/45,3/17/25,79.77
+242,Media & Entertainment,Blair Parry-Okeden,Australia,New South Wales,"Media, automotive",Media & Entertainment,FALSE,F,Parry-Okeden,Blair,8400,1950,5,21,119.8,1.39268E+12,82.7,23,47.4,25766605,5/21/50,3/17/25,74.82
+242,Metals & Mining,Zheng Shuliang & family,China,Binzhou,Aluminum products,Metals & Mining,FALSE,F,Zheng,Shuliang,8400,1946,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/46,3/17/25,79.21
+246,Fashion & Retail,John Morris,United States,Springfield,Sporting goods retail,Fashion & Retail,TRUE,M,Morris,John,8300,1948,3,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/19/48,3/17/25,76.99
+249,Energy,German Khan,Russia,Moscow,"Oil, banking, telecom",Energy,TRUE,M,Khan,German,8200,1961,10,24,180.75,1.69988E+12,72.7,11.4,46.2,144373535,10/24/61,3/17/25,63.4
+249,Diversified,Abdulsamad Rabiu,Nigeria,Lagos,"Cement, sugar",Diversified,FALSE,M,Rabiu,Abdulsamad,8200,1960,8,4,267.51,4.4812E+11,54.3,1.5,34.8,200963599,8/4/60,3/17/25,64.61
+249,Finance & Investments,George Roberts,United States,Atherton,Private equity,Finance & Investments,TRUE,M,Roberts,George,8200,1943,9,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/14/43,3/17/25,81.51
+249,Real Estate,Kushal Pal Singh,India,Delhi,Real estate,Real Estate,FALSE,M,Singh,Kushal Pal,8200,1931,8,15,180.44,2.611E+12,69.4,11.2,49.7,1366417754,8/15/31,3/17/25,93.59
+249,Real Estate,Wang Jianlin,China,Beijing,Real estate,Real Estate,TRUE,M,Wang,Jianlin,8200,1954,10,1,125.08,1.991E+13,77,9.4,59.2,1397715000,10/1/54,3/17/25,70.46
+249,Real Estate,Yang Huiyan & family,China,Foshan,Real estate,Real Estate,FALSE,F,Yang,Huiyan,8200,1981,9,27,125.08,1.991E+13,77,9.4,59.2,1397715000,9/27/81,3/17/25,43.47
+256,Diversified,Laurent Dassault,France,Paris,Diversified,Diversified,FALSE,M,Dassault,Laurent,8100,1953,7,7,110.05,2.71552E+12,82.5,24.2,60.7,67059887,7/7/53,3/17/25,71.69
+256,Diversified,Thierry Dassault,France,Paris,Diversified,Diversified,FALSE,M,Dassault,Thierry,8100,1957,3,26,110.05,2.71552E+12,82.5,24.2,60.7,67059887,3/26/57,3/17/25,67.98
+256,Food & Beverage,Tilman Fertitta,United States,Houston,"Houston Rockets, entertainment",Food & Beverage,TRUE,M,Fertitta,Tilman,8100,1957,6,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/25/57,3/17/25,67.73
+256,Diversified,Marie-Hélène Habert-Dassault,France,Paris,Diversified,Diversified,FALSE,F,Habert-Dassault,Marie-Hélène,8100,1965,4,4,110.05,2.71552E+12,82.5,24.2,60.7,67059887,4/4/65,3/17/25,59.95
+256,Gambling & Casinos,Karel Komarek,Switzerland,Verbier,"Oil and gas, IT, lotteries",Gambling & Casinos,TRUE,M,Komarek,Karel,8100,1969,3,15,99.55,7.03082E+11,83.6,10.1,28.8,8574832,3/15/69,3/17/25,56.01
+261,Technology,Nathan Blecharczyk,United States,San Francisco,Airbnb,Technology,TRUE,M,Blecharczyk,Nathan,8000,1983,6,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/11/83,3/17/25,41.77
+261,Energy,Leonid Fedun,Russia,Moscow,Oil,Energy,TRUE,M,Fedun,Leonid,8000,1956,4,5,180.75,1.69988E+12,72.7,11.4,46.2,144373535,4/5/56,3/17/25,68.95
+261,Fashion & Retail,Bernard Marcus,United States,Atlanta,Home Depot,Fashion & Retail,TRUE,M,Marcus,Bernard,8000,1929,5,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/12/29,3/17/25,95.85
+261,Finance & Investments,Patrick Ryan,United States,Winnetka,Insurance,Finance & Investments,TRUE,M,Ryan,Patrick,8000,1937,5,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/15/37,3/17/25,87.84
+261,Finance & Investments,Robert F. Smith,United States,Austin,Private equity,Finance & Investments,TRUE,M,Smith,Robert F.,8000,1962,12,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/1/62,3/17/25,62.29
+261,Metals & Mining,Pavel Tykac,Czech Republic,Prague,Coal mines,Metals & Mining,TRUE,M,Tykac,Pavel,8000,1964,5,15,116.48,2.46489E+11,79,14.9,46.1,10669709,5/15/64,3/17/25,60.84
+268,Finance & Investments,Orlando Bravo,United States,Miami Beach,Private equity,Finance & Investments,TRUE,M,Bravo,Orlando,7900,1970,9,23,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/23/70,3/17/25,54.48
+268,Fashion & Retail,Ding Shizhong,China,Quanzhou,Sports apparel,Fashion & Retail,TRUE,M,Ding,Shizhong,7900,1970,12,1,125.08,1.991E+13,77,9.4,59.2,1397715000,12/1/70,3/17/25,54.29
+268,Fashion & Retail,Nancy Walton Laurie,United States,Henderson,Walmart,Fashion & Retail,FALSE,F,Laurie,Nancy Walton,7900,1951,5,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/15/51,3/17/25,73.84
+268,Technology,Jay Y. Lee,South Korea,Seoul,Samsung,Technology,FALSE,M,Lee,Jay Y.,7900,1968,6,23,115.16,2.029E+12,82.6,15.6,33.2,51709098,6/23/68,3/17/25,56.73
+268,Finance & Investments,Ramzi Musallam,United States,New York,Private equity,Finance & Investments,TRUE,M,Musallam,Ramzi,7900,1968,9,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/17/68,3/17/25,56.49
+268,Finance & Investments,David Shaw,United States,New York,Hedge funds,Finance & Investments,TRUE,M,Shaw,David,7900,1951,3,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/29/51,3/17/25,73.97
+268,Metals & Mining,Andrei Skoch & family,Russia,Moscow,Metals and mining,Metals & Mining,TRUE,M,Skoch & family,Andrei,7900,1966,1,30,180.75,1.69988E+12,72.7,11.4,46.2,144373535,1/30/66,3/17/25,59.13
+268,Diversified,Georg Stumpf,Austria,Vienna,"Real estate, construction",Diversified,TRUE,M,Stumpf,Georg,7900,1972,9,14,118.06,4.46315E+11,81.6,25.4,51.4,8877067,9/14/72,3/17/25,52.5
+276,Telecom,Rocco Commisso,United States,Saddle River,Telecom,Telecom,TRUE,M,Commisso,Rocco,7800,1949,11,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/25/49,3/17/25,75.31
+276,Manufacturing,Li Shuirong & family,China,Hangzhou,Petrochemicals,Manufacturing,TRUE,M,Li,Shuirong,7800,1956,7,1,125.08,1.991E+13,77,9.4,59.2,1397715000,7/1/56,3/17/25,68.71
+276,Technology,Qi Shi & family,China,Shanghai,Financial information,Technology,TRUE,M,Qi,Shi,7800,1970,1,3,125.08,1.991E+13,77,9.4,59.2,1397715000,1/3/70,3/17/25,55.2
+276,Manufacturing,Yao Liangsong,China,Guangzhou,Furniture,Manufacturing,TRUE,M,Yao,Liangsong,7800,1964,8,1,125.08,1.991E+13,77,9.4,59.2,1397715000,8/1/64,3/17/25,60.62
+282,Food & Beverage,Jean-Michel Besnier,France,Laval,Cheese,Food & Beverage,FALSE,M,Besnier,Jean-Michel,7700,1967,6,5,110.05,2.71552E+12,82.5,24.2,60.7,67059887,6/5/67,3/17/25,57.78
+282,Food & Beverage,Marie Besnier Beauvalot,France,Laval,Cheese,Food & Beverage,FALSE,F,Besnier Beauvalot,Marie,7700,1980,7,30,110.05,2.71552E+12,82.5,24.2,60.7,67059887,7/30/80,3/17/25,44.63
+282,Media & Entertainment,David Geffen,United States,Beverly Hills,"Movies, record labels",Media & Entertainment,TRUE,M,Geffen,David,7700,1943,2,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/21/43,3/17/25,82.07
+282,Technology,Robin Li,China,Beijing,Internet search,Technology,TRUE,M,Li,Robin,7700,1968,11,17,125.08,1.991E+13,77,9.4,59.2,1397715000,11/17/68,3/17/25,56.33
+282,Service,Liu Yonghao & family,China,Chengdu,Agribusiness,Service,TRUE,M,Liu,Yonghao,7700,1951,9,1,125.08,1.991E+13,77,9.4,59.2,1397715000,9/1/51,3/17/25,73.54
+282,Technology,Henry Samueli,United States,Newport Beach,Semiconductors,Technology,TRUE,M,Samueli,Henry,7700,1954,9,20,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/20/54,3/17/25,70.49
+282,Healthcare,Reinhold Schmieding,United States,Naples,Medical devices,Healthcare,TRUE,M,Schmieding,Reinhold,7700,1955,1,3,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/3/55,3/17/25,70.2
+282,Real Estate,Ivar Tollefsen,Norway,Oslo,Real estate,Real Estate,TRUE,M,Tollefsen,Ivar,7700,1961,6,23,120.27,4.03336E+11,82.8,23.9,36.2,5347896,6/23/61,3/17/25,63.73
+290,Energy,Cao Renxian,China,Hefei,Photovoltaic equipment,Energy,TRUE,M,Cao,Renxian,7600,1968,7,24,125.08,1.991E+13,77,9.4,59.2,1397715000,7/24/68,3/17/25,56.64
+290,Healthcare,Hasmukh Chudgar & family,India,Ahmedabad,Pharmaceuticals,Healthcare,TRUE,M,Chudgar,Hasmukh,7600,1933,9,19,180.44,2.611E+12,69.4,11.2,49.7,1366417754,9/19/33,3/17/25,91.49
+290,Manufacturing,Andrew Currie,United Kingdom,London,Chemicals,Manufacturing,TRUE,M,Currie,Andrew,7600,1955,12,4,119.62,2.82711E+12,81.3,25.5,30.6,66834405,12/4/55,3/17/25,69.28
+290,Technology,Joe Gebbia,United States,Austin,Airbnb,Technology,TRUE,M,Gebbia,Joe,7600,1981,8,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/21/81,3/17/25,43.57
+290,Real Estate,Philip Ng,Singapore,Singapore,Real Estate,Real Estate,FALSE,M,Ng,Philip,7600,1959,1,1,114.41,3.72063E+11,83.1,13.1,21,5703569,1/1/59,3/17/25,66.21
+290,Manufacturing,John Reece,United Kingdom,London,Chemicals,Manufacturing,TRUE,M,Reece,John,7600,1957,3,7,119.62,2.82711E+12,81.3,25.5,30.6,66834405,3/7/57,3/17/25,68.03
+290,Real Estate,Leonard Stern,United States,New York,Real estate,Real Estate,FALSE,M,Stern,Leonard,7600,1938,3,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/28/38,3/17/25,86.97
+290,Healthcare,Zhong Huijuan,China,Shanghai,Pharmaceuticals,Healthcare,TRUE,F,Zhong,Huijuan,7600,1961,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/61,3/17/25,64.21
+299,Sports,Arthur Blank,United States,Atlanta,Home Depot,Sports,TRUE,M,Blank,Arthur,7500,1942,9,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/27/42,3/17/25,82.47
+299,Fashion & Retail,Charles Butt,United States,San Antonio,Supermarkets,Fashion & Retail,FALSE,M,Butt,Charles,7500,1938,2,3,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/3/38,3/17/25,87.12
+299,Fashion & Retail,Ding Shijia,China,Quanzhou,Sports apparel,Fashion & Retail,TRUE,M,Ding,Shijia,7500,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+299,Finance & Investments,"Paul Tudor Jones, II.",United States,Palm Beach,Hedge funds,Finance & Investments,TRUE,M,Jones,Paul Tudor,7500,1954,9,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/28/54,3/17/25,70.47
+299,Finance & Investments,Henry Kravis,United States,New York,Private equity,Finance & Investments,TRUE,M,Kravis,Henry,7500,1944,1,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/6/44,3/17/25,81.19
+299,Food & Beverage,Zhang Yong,Singapore,Singapore,Restaurants,Food & Beverage,TRUE,M,Zhang,Yong,7500,1970,7,1,114.41,3.72063E+11,83.1,13.1,21,5703569,7/1/70,3/17/25,54.71
+305,Technology,James Goodnight,United States,Cary,Software,Technology,TRUE,M,Goodnight,James,7400,1943,1,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/6/43,3/17/25,82.19
+305,Manufacturing,Sri Prakash Lohia,United Kingdom,London,Petrochemicals,Manufacturing,FALSE,M,Lohia,Sri Prakash,7400,1952,8,11,119.62,2.82711E+12,81.3,25.5,30.6,66834405,8/11/52,3/17/25,72.6
+305,Fashion & Retail,Ma Jianrong,China,Ningbo,"Textiles, apparel",Fashion & Retail,TRUE,M,Ma,Jianrong,7400,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+305,Real Estate,Robert Ng,Singapore,Singapore,Real estate,Real Estate,FALSE,M,Ng,Robert,7400,1952,1,1,114.41,3.72063E+11,83.1,13.1,21,5703569,1/1/52,3/17/25,73.21
+305,Manufacturing,Steven Rales,United States,Santa Barbara,"Manufacturing, investments",Manufacturing,TRUE,M,Rales,Steven,7400,1951,3,31,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/31/51,3/17/25,73.96
+305,Construction & Engineering,Nassef Sawiris,Egypt,Cairo,"Construction, investments",Construction & Engineering,FALSE,M,Sawiris,Nassef,7400,1961,1,19,288.57,3.03175E+11,71.8,12.5,44.4,100388073,1/19/61,3/17/25,64.16
+305,Food & Beverage,Harry Stine,United States,Adel,Agriculture,Food & Beverage,TRUE,M,Stine,Harry,7400,1941,11,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/30/41,3/17/25,83.29
+312,Manufacturing,Benu Gopal Bangur,India,Kolkata,Cement,Manufacturing,FALSE,M,Bangur,Benu Gopal,7300,1931,6,1,180.44,2.611E+12,69.4,11.2,49.7,1366417754,6/1/31,3/17/25,93.79
+312,Metals & Mining,Iskander Makhmudov,Russia,Moscow,"Mining, metals, machinery",Metals & Mining,TRUE,M,Makhmudov,Iskander,7300,1963,12,5,180.75,1.69988E+12,72.7,11.4,46.2,144373535,12/5/63,3/17/25,61.28
+312,Fashion & Retail,Anders Holch Povlsen,Denmark,Aarhus,Fashion retail,Fashion & Retail,FALSE,M,Povlsen,Anders Holch,7300,1972,11,4,110.35,3.48078E+11,81,32.4,23.8,5818553,11/4/72,3/17/25,52.36
+312,Logistics,Enrique Razon Jr.,Philippines,Manila,Ports,Logistics,FALSE,M,Razon Jr.,Enrique,7300,1960,3,3,129.61,3.76796E+11,71.1,14,43.1,108116615,3/3/60,3/17/25,65.04
+312,Technology,Wang Laichun,China,Shenzhen,Electronics components,Technology,TRUE,F,Wang,Laichun,7300,1967,6,3,125.08,1.991E+13,77,9.4,59.2,1397715000,6/3/67,3/17/25,57.79
+317,Finance & Investments,Arthur Dantchik,United States,Gladwyne,"Trading, investments",Finance & Investments,TRUE,M,Dantchik,Arthur,7200,1957,11,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/25/57,3/17/25,67.31
+317,Real Estate,Jeff Greene,United States,Palm Beach,"Real estate, investments",Real Estate,TRUE,M,Greene,Jeff,7200,1954,12,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/10/54,3/17/25,70.27
+317,Finance & Investments,Don Hankey,United States,Malibu,Auto loans,Finance & Investments,TRUE,M,Hankey,Don,7200,1943,6,13,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/13/43,3/17/25,81.76
+317,Energy,Richard Kinder,United States,Houston,Pipelines,Energy,TRUE,M,Kinder,Richard,7200,1944,10,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/19/44,3/17/25,80.41
+317,Finance & Investments,Guillaume Pousaz,United Arab Emirates,Dubai,Fintech,Finance & Investments,TRUE,M,Pousaz,Guillaume,7200,1981,8,15,114.52,4.21142E+11,77.8,0.1,15.9,9770529,8/15/81,3/17/25,43.59
+317,Fashion & Retail,Takahisa Takahara,Japan,Tokyo,Personal care goods,Fashion & Retail,FALSE,M,Takahara,Takahisa,7200,1961,7,12,105.48,5.08177E+12,84.2,11.9,46.7,126226568,7/12/61,3/17/25,63.68
+317,Food & Beverage,Zong Qinghou,China,Hangzhou,Beverages,Food & Beverage,TRUE,M,Zong,Qinghou,7200,1945,10,1,125.08,1.991E+13,77,9.4,59.2,1397715000,10/1/45,3/17/25,79.46
+325,Technology,Judy Faulkner,United States,Madison,Healthcare software,Technology,TRUE,F,Faulkner,Judy,7100,1943,8,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/1/43,3/17/25,81.63
+325,Gambling & Casinos,Johann Graf,Austria,Vienna,Gambling,Gambling & Casinos,TRUE,M,Graf,Johann,7100,1947,1,3,118.06,4.46315E+11,81.6,25.4,51.4,8877067,1/3/47,3/17/25,78.2
+325,Service,Tamara Gustavson,United States,Lexington,Self storage,Service,FALSE,F,Gustavson,Tamara,7100,1961,11,16,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/16/61,3/17/25,63.33
+325,Manufacturing,Liang Wengen,China,Changsha,Construction equipment,Manufacturing,TRUE,M,Liang,Wengen,7100,1956,12,14,125.08,1.991E+13,77,9.4,59.2,1397715000,12/14/56,3/17/25,68.25
+325,Healthcare,Frederik Paulsen,Switzerland,Lausanne,Health care,Healthcare,FALSE,M,Paulsen,Frederik,7100,1950,10,30,99.55,7.03082E+11,83.6,10.1,28.8,8574832,10/30/50,3/17/25,74.38
+325,Finance & Investments,Wee Cho Yaw,Singapore,Singapore,Banking,Finance & Investments,FALSE,M,Wee,Cho Yaw,7100,1929,1,10,114.41,3.72063E+11,83.1,13.1,21,5703569,1/10/29,3/17/25,96.18
+325,Manufacturing,Zhang Hejun,China,Ningbo,Electronics,Manufacturing,TRUE,M,Zhang,Hejun,7100,1952,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/52,3/17/25,73.21
+332,Technology,Marc Benioff,United States,San Francisco,Business software,Technology,TRUE,M,Benioff,Marc,7000,1964,9,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/25/64,3/17/25,60.47
+332,Media & Entertainment,Dmitri Bukhman,United Kingdom,London,Online games,Media & Entertainment,TRUE,M,Bukhman,Dmitri,7000,1985,5,27,119.62,2.82711E+12,81.3,25.5,30.6,66834405,5/27/85,3/17/25,39.81
+332,Media & Entertainment,Igor Bukhman,United Kingdom,London,Online games,Media & Entertainment,TRUE,M,Bukhman,Igor,7000,1982,3,29,119.62,2.82711E+12,81.3,25.5,30.6,66834405,3/29/82,3/17/25,42.97
+332,Technology,Jack Dangermond,United States,Redlands,Mapping software,Technology,TRUE,M,Dangermond,Jack,7000,1945,7,23,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/23/45,3/17/25,79.65
+332,Manufacturing,Ashwin Dani & family,India,Mumbai,Paints,Manufacturing,FALSE,M,Dani,Ashwin,7000,1942,10,24,180.44,2.611E+12,69.4,11.2,49.7,1366417754,10/24/42,3/17/25,82.4
+332,Fashion & Retail,Ralph Lauren,United States,New York,Apparel,Fashion & Retail,TRUE,M,Lauren,Ralph,7000,1939,10,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/14/39,3/17/25,85.42
+332,Diversified,Rohiqa Cyrus Mistry,India,Mumbai,Diversified,Diversified,FALSE,F,Mistry,Rohiqa Cyrus,7000,1967,6,6,180.44,2.611E+12,69.4,11.2,49.7,1366417754,6/6/67,3/17/25,57.78
+332,Diversified,Shapoor Mistry,India,Mumbai,Diversified,Diversified,FALSE,M,Mistry,Shapoor,7000,1964,9,6,180.44,2.611E+12,69.4,11.2,49.7,1366417754,9/6/64,3/17/25,60.52
+332,Food & Beverage,J. Christopher Reyes,United States,Hobe Sound,Food distribution,Food & Beverage,TRUE,M,Reyes,J. Christopher,7000,1953,12,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/29/53,3/17/25,71.21
+332,Food & Beverage,Jude Reyes,United States,Palm Beach,Food distribution,Food & Beverage,TRUE,M,Reyes,Jude,7000,1955,9,16,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/16/55,3/17/25,69.5
+332,Food & Beverage,Don Vultaggio & family,United States,Port Washington,Beverages,Food & Beverage,TRUE,M,Vultaggio,Don,7000,1952,2,26,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/26/52,3/17/25,73.05
+344,Diversified,Edythe Broad & family,United States,Los Angeles,"Homebuilding, insurance",Diversified,FALSE,F,Broad,Edythe,6900,1936,1,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/1/36,3/17/25,89.21
+344,Food & Beverage,Pauline MacMillan Keinath,United States,St. Louis,Cargill,Food & Beverage,FALSE,F,Keinath,Pauline MacMillan,6900,1934,1,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/1/34,3/17/25,91.21
+344,Finance & Investments,Philippe Laffont,United States,New York,Hedge fund,Finance & Investments,TRUE,M,Laffont,Philippe,6900,1967,9,16,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/16/67,3/17/25,57.5
+344,Technology,Liu Jincheng & family,China,Huizhou,Lithium batteries,Technology,TRUE,M,Liu,Jincheng,6900,1964,9,22,125.08,1.991E+13,77,9.4,59.2,1397715000,9/22/64,3/17/25,60.48
+344,Real Estate,Igor Olenicoff,United States,Lighthouse Point,Real estate,Real Estate,TRUE,M,Olenicoff,Igor,6900,1942,9,20,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/20/42,3/17/25,82.49
+344,Fashion & Retail,Sandra Ortega Mera,Spain,La Coruna,Zara,Fashion & Retail,FALSE,F,Ortega Mera,Sandra,6900,1968,7,9,110.96,1.39412E+12,83.3,14.2,47,47076781,7/9/68,3/17/25,56.69
+344,Healthcare,Ronda Stryker,United States,Portage,Medical equipment,Healthcare,FALSE,F,Stryker,Ronda,6900,1954,5,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/1/54,3/17/25,70.88
+352,Energy,Dannine Avara,United States,Houston,Pipelines,Energy,FALSE,F,Avara,Dannine,6800,1964,3,9,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/9/64,3/17/25,61.02
+352,Diversified,Silvio Berlusconi & family,Italy,Milan,Media,Diversified,TRUE,M,Berlusconi,Silvio,6800,1936,9,29,110.62,2.00124E+12,82.9,24.3,59.1,60297396,9/29/36,3/17/25,88.46
+352,Gambling & Casinos,Denise Coates,United Kingdom,Stoke-on-Trent,Online gambling,Gambling & Casinos,TRUE,F,Coates,Denise,6800,1967,9,26,119.62,2.82711E+12,81.3,25.5,30.6,66834405,9/26/67,3/17/25,57.47
+352,Energy,Scott Duncan,United States,Houston,Pipelines,Energy,FALSE,M,Duncan,Scott,6800,1982,11,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/1/82,3/17/25,42.37
+352,Energy,Milane Frantz,United States,Houston,Pipelines,Energy,FALSE,F,Frantz,Milane,6800,1969,8,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/12/69,3/17/25,55.6
+352,Finance & Investments,"Edward Johnson, IV.",United States,Boston,Fidelity,Finance & Investments,FALSE,M,Johnson,Edward,6800,1964,11,18,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/18/64,3/17/25,60.32
+352,Finance & Investments,Yuri Milner,United States,Los Altos,Tech investments,Finance & Investments,TRUE,M,Milner,Yuri,6800,1961,11,11,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/11/61,3/17/25,63.35
+352,Technology,Gordon Moore,United States,Woodside,Intel,Technology,TRUE,M,Moore,Gordon,6800,1929,1,3,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/3/29,3/17/25,96.2
+352,Finance & Investments,John Overdeck,United States,Millburn,Hedge funds,Finance & Investments,TRUE,M,Overdeck,John,6800,1969,12,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/21/69,3/17/25,55.24
+352,Finance & Investments,David Siegel,United States,Scarsdale,Hedge funds,Finance & Investments,TRUE,M,Siegel,David,6800,1961,7,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/15/61,3/17/25,63.67
+352,Diversified,Viktor Vekselberg,Russia,Moscow,"Metals, investments",Diversified,TRUE,M,Vekselberg,Viktor,6800,1957,4,14,180.75,1.69988E+12,72.7,11.4,46.2,144373535,4/14/57,3/17/25,67.92
+352,Technology,Wang Laisheng,China,Shenzhen,Electronics components,Technology,TRUE,M,Wang,Laisheng,6800,1964,12,14,125.08,1.991E+13,77,9.4,59.2,1397715000,12/14/64,3/17/25,60.25
+352,Energy,Randa Duncan Williams,United States,Houston,Pipelines,Energy,FALSE,F,Williams,Randa Duncan,6800,1961,8,28,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/28/61,3/17/25,63.55
+365,Finance & Investments,Ken Fisher,United States,Dallas,Money management,Finance & Investments,TRUE,M,Fisher,Ken,6700,1950,11,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/29/50,3/17/25,74.3
+365,Finance & Investments,Christopher Hohn,United Kingdom,London,Hedge funds,Finance & Investments,TRUE,M,Hohn,Christopher,6700,1966,10,27,119.62,2.82711E+12,81.3,25.5,30.6,66834405,10/27/66,3/17/25,58.39
+365,Manufacturing,Kjeld Kirk Kristiansen,Denmark,Billund,Lego,Manufacturing,FALSE,M,Kristiansen,Kjeld Kirk,6700,1947,12,27,110.35,3.48078E+11,81,32.4,23.8,5818553,12/27/47,3/17/25,77.22
+365,Manufacturing,Sofie Kirk Kristiansen,Denmark,Billund,Lego,Manufacturing,FALSE,F,Kristiansen,Sofie Kirk,6700,1976,1,1,110.35,3.48078E+11,81,32.4,23.8,5818553,1/1/76,3/17/25,49.21
+365,Manufacturing,Thomas Kirk Kristiansen,Denmark,Billund,Lego,Manufacturing,FALSE,M,Kristiansen,Thomas Kirk,6700,1979,1,1,110.35,3.48078E+11,81,32.4,23.8,5818553,1/1/79,3/17/25,46.21
+365,Healthcare,Massimiliana Landini Aleotti & family,Italy,Fiesole,Pharmaceuticals,Healthcare,FALSE,F,Landini Aleotti,Massimiliana,6700,1943,1,1,110.62,2.00124E+12,82.9,24.3,59.1,60297396,1/1/43,3/17/25,82.21
+365,Automotive,Li Ping,China,Ningde,Batteries,Automotive,TRUE,M,Li,Ping,6700,1968,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/68,3/17/25,57.21
+365,Manufacturing,Lin Jianhua,China,Hangzhou,Solar panel components,Manufacturing,TRUE,M,Lin,Jianhua,6700,1962,8,1,125.08,1.991E+13,77,9.4,59.2,1397715000,8/1/62,3/17/25,62.63
+365,Manufacturing,Magdalena Martullo-Blocher,Switzerland,Feldmeilen,Chemicals,Manufacturing,FALSE,F,Martullo-Blocher,Magdalena,6700,1969,1,1,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/1/69,3/17/25,56.21
+365,Telecom,Xavier Niel,France,Paris,"Internet, telecom",Telecom,TRUE,M,Niel,Xavier,6700,1967,8,25,110.05,2.71552E+12,82.5,24.2,60.7,67059887,8/25/67,3/17/25,57.56
+365,Energy,Terrence Pegula,United States,Boca Raton,Natural gas,Energy,TRUE,M,Pegula,Terrence,6700,1951,3,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/27/51,3/17/25,73.97
+365,Real Estate,"Edward Roski, Jr.",United States,Los Angeles,Real estate,Real Estate,FALSE,M,Roski,Edward,6700,1938,12,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/25/38,3/17/25,86.23
+365,Real Estate,John A. Sobrato & family,United States,Atherton,Real estate,Real Estate,TRUE,M,Sobrato,John A.,6700,1939,5,23,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/23/39,3/17/25,85.82
+365,Finance & Investments,George Soros,United States,Katonah,Hedge funds,Finance & Investments,TRUE,M,Soros,George,6700,1930,8,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/12/30,3/17/25,94.6
+365,Technology,David Sun,United States,Irvine,Computer hardware,Technology,TRUE,M,Sun,David,6700,1951,10,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/12/51,3/17/25,73.43
+365,Manufacturing,Agnete Kirk Thinggaard,Denmark,Billund,Lego,Manufacturing,FALSE,F,Thinggaard,Agnete Kirk,6700,1983,5,18,110.35,3.48078E+11,81,32.4,23.8,5818553,5/18/83,3/17/25,41.83
+365,Technology,John Tu,United States,Rolling Hills,Computer hardware,Technology,TRUE,M,Tu,John,6700,1941,8,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/12/41,3/17/25,83.6
+365,Food & Beverage,Xu Shihui,China,Quanzhou,"Snacks, beverages",Food & Beverage,TRUE,M,Xu,Shihui,6700,1958,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/58,3/17/25,67.21
+383,Manufacturing,Rahel Blocher,Switzerland,Wilen bei Wollerau,Chemicals,Manufacturing,FALSE,F,Blocher,Rahel,6600,1976,1,1,99.55,7.03082E+11,83.6,10.1,28.8,8574832,1/1/76,3/17/25,49.21
+383,Food & Beverage,Bubba Cathy,United States,Atlanta,Chick-fil-A,Food & Beverage,FALSE,M,Cathy,Bubba,6600,1954,4,22,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/22/54,3/17/25,70.9
+383,Food & Beverage,Dan Cathy,United States,Atlanta,Chick-fil-A,Food & Beverage,FALSE,M,Cathy,Dan,6600,1953,3,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,3/1/53,3/17/25,72.04
+383,Food & Beverage,Trudy Cathy White,United States,Hampton,Chick-fil-A,Food & Beverage,FALSE,F,Cathy White,Trudy,6600,1955,12,17,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/17/55,3/17/25,69.25
+383,Finance & Investments,Bruce Kovner,United States,New York,Hedge funds,Finance & Investments,TRUE,M,Kovner,Bruce,6600,1945,2,25,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/25/45,3/17/25,80.06
+383,Technology,"Henry Nicholas, III.",United States,Newport Coast,Semiconductors,Technology,TRUE,M,Nicholas,Henry,6600,1959,10,8,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/8/59,3/17/25,65.44
+383,Finance & Investments,Nadia Thiele,Germany,Munich,Investments,Finance & Investments,FALSE,F,Thiele,Nadia,6600,1976,1,7,112.85,3.84563E+12,80.9,11.5,48.8,83132799,1/7/76,3/17/25,49.19
+390,Finance & Investments,David Bonderman,United States,Fort Worth,Private equity,Finance & Investments,TRUE,M,Bonderman,David,6500,1942,11,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/27/42,3/17/25,82.3
+390,Technology,Melinda French Gates,United States,Medina,Microsoft,Technology,FALSE,F,French Gates,Melinda,6500,1964,8,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/15/64,3/17/25,60.58
+390,Real Estate,Annette Lerner & family,United States,Chevy Chase,Real estate,Real Estate,FALSE,F,Lerner,Annette,6500,1930,2,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/27/30,3/17/25,95.05
+390,Real Estate,David Reuben,United Kingdom,London,"Investments, real estate",Real Estate,TRUE,M,Reuben,David,6500,1938,9,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,9/1/38,3/17/25,86.54
+390,Real Estate,Radovan Vitek,Switzerland,Crans Montana,Real estate,Real Estate,TRUE,M,Vitek,Radovan,6500,1971,4,22,99.55,7.03082E+11,83.6,10.1,28.8,8574832,4/22/71,3/17/25,53.9
+397,Finance & Investments,Carl Bennet,Sweden,Gothenberg,Investments,Finance & Investments,TRUE,M,Bennet,Carl,6400,1951,8,19,110.51,5.30833E+11,82.5,27.9,49.1,10285453,8/19/51,3/17/25,73.58
+397,Sports,Stephen Bisciotti,United States,Hobe Sound,"Staffing, Baltimore Ravens",Sports,TRUE,M,Bisciotti,Stephen,6400,1960,4,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/10/60,3/17/25,64.93
+397,Finance & Investments,Stanley Druckenmiller,United States,New York,Hedge funds,Finance & Investments,TRUE,M,Druckenmiller,Stanley,6400,1953,6,14,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/14/53,3/17/25,71.76
+397,Healthcare,Jian Jun,China,Beijing,Biomedical products,Healthcare,TRUE,F,Jian,Jun,6400,1963,11,1,125.08,1.991E+13,77,9.4,59.2,1397715000,11/1/63,3/17/25,61.37
+397,Energy,Alexei Kuzmichev,France,Paris,"Oil, banking, telecom",Energy,TRUE,M,Kuzmichev,Alexei,6400,1962,10,15,110.05,2.71552E+12,82.5,24.2,60.7,67059887,10/15/62,3/17/25,62.42
+397,Finance & Investments,Luis Carlos Sarmiento,Colombia,Bogota,Banking,Finance & Investments,TRUE,M,Sarmiento,Luis Carlos,6400,1933,1,27,140.95,3.23803E+11,77.1,14.4,71.2,50339443,1/27/33,3/17/25,92.13
+397,Logistics,Dennis Washington,United States,Missoula,"Construction, mining",Logistics,TRUE,M,Washington,Dennis,6400,1934,7,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/27/34,3/17/25,90.64
+405,Construction & Engineering,Anthony Bamford & family,United Kingdom,Gloucestershire,Construction equipment,Construction & Engineering,FALSE,M,Bamford,Anthony,6300,1945,10,23,119.62,2.82711E+12,81.3,25.5,30.6,66834405,10/23/45,3/17/25,79.4
+405,Energy,Gao Jifan & family,China,Changzhou,Solar equipment,Energy,TRUE,M,Gao,Jifan,6300,1965,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/65,3/17/25,60.21
+405,Finance & Investments,John Grayken,United Kingdom,London,Private equity,Finance & Investments,TRUE,M,Grayken,John,6300,1956,6,1,119.62,2.82711E+12,81.3,25.5,30.6,66834405,6/1/56,3/17/25,68.79
+405,Healthcare,Alain Merieux & family,France,Lyon,Pharmaceuticals,Healthcare,FALSE,M,Merieux,Alain,6300,1938,1,1,110.05,2.71552E+12,82.5,24.2,60.7,67059887,1/1/38,3/17/25,87.21
+405,Energy,Wang Yusuo & family,China,Langfang,Natural gas distribution,Energy,TRUE,M,Wang,Yusuo,6300,1964,3,11,125.08,1.991E+13,77,9.4,59.2,1397715000,3/11/64,3/17/25,61.01
+405,Manufacturing,Stef Wertheimer & family,Israel,Tel Aviv,Metalworking tools,Manufacturing,TRUE,M,Wertheimer,Stef,6300,1926,7,16,108.15,3.95099E+11,82.8,23.1,25.3,9053300,7/16/26,3/17/25,98.67
+411,Food & Beverage,Maria Asuncion Aramburuzabala & family,Mexico,Mexico City,"Beer, investments",Food & Beverage,FALSE,F,Aramburuzabala,Maria Asuncion,6200,1963,5,2,141.54,1.25829E+12,75,13.1,55.1,126014024,5/2/63,3/17/25,61.87
+411,Diversified,Gustaf Douglas,Sweden,Stockholm,Investments,Diversified,TRUE,M,Douglas,Gustaf,6200,1938,3,3,110.51,5.30833E+11,82.5,27.9,49.1,10285453,3/3/38,3/17/25,87.04
+411,Service,Frits Goldschmeding,Netherlands,Amsterdam,Temp agency,Service,TRUE,M,Goldschmeding,Frits,6200,1933,8,2,115.91,9.0907E+11,81.8,23,41.2,17332850,8/2/33,3/17/25,91.62
+411,Food & Beverage,Lin Muqin & family,China,Shenzhen,Beverages,Food & Beverage,TRUE,M,Lin,Muqin,6200,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+411,Manufacturing,Ruan Liping,China,Ningbo,Power strips,Manufacturing,TRUE,M,Ruan,Liping,6200,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+411,Manufacturing,Ruan Xueping,China,Ningbo,Power strip,Manufacturing,TRUE,M,Ruan,Xueping,6200,1972,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/72,3/17/25,53.21
+411,Finance & Investments,Michal Solowow,Poland,Kielce,Investments,Finance & Investments,TRUE,M,Solowow,Michal,6200,1962,7,11,114.11,5.92164E+11,77.6,17.4,40.8,37970874,7/11/62,3/17/25,62.68
+418,Diversified,Mike Adenuga,Nigeria,Lagos,"Telecom, oil",Diversified,TRUE,M,Adenuga,Mike,6100,1953,4,29,267.51,4.4812E+11,54.3,1.5,34.8,200963599,4/29/53,3/17/25,71.88
+418,Finance & Investments,Tom Gores,United States,Beverly Hills,Private equity,Finance & Investments,TRUE,M,Gores,Tom,6100,1964,7,31,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/31/64,3/17/25,60.63
+418,Fashion & Retail,Michael Herz,Germany,Hamburg,Coffee,Fashion & Retail,FALSE,M,Herz,Michael,6100,1943,9,28,112.85,3.84563E+12,80.9,11.5,48.8,83132799,9/28/43,3/17/25,81.47
+418,Fashion & Retail,Wolfgang Herz,Germany,Hamburg,Coffee,Fashion & Retail,FALSE,M,Herz,Wolfgang,6100,1951,1,1,112.85,3.84563E+12,80.9,11.5,48.8,83132799,1/1/51,3/17/25,74.21
+425,Metals & Mining,Alexander Abramov,Russia,Moscow,"Steel, mining",Metals & Mining,TRUE,M,Abramov,Alexander,6000,1959,2,20,180.75,1.69988E+12,72.7,11.4,46.2,144373535,2/20/59,3/17/25,66.07
+425,Real Estate,Neil Bluhm,United States,Chicago,Real estate,Real Estate,TRUE,M,Bluhm,Neil,6000,1938,1,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/12/38,3/17/25,87.18
+425,Fashion & Retail,Alain Bouchard,Canada,Montreal,Convinience stores,Fashion & Retail,TRUE,M,Bouchard,Alain,6000,1949,2,18,116.76,1.73643E+12,81.9,12.8,24.5,36991981,2/18/49,3/17/25,76.07
+425,Technology,Jay Chaudhry,United States,Reno,Security software,Technology,TRUE,M,Chaudhry,Jay,6000,1959,8,26,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/26/59,3/17/25,65.56
+425,Fashion & Retail,Gopikishan Damani,India,Mumbai,"Retail, investments",Fashion & Retail,TRUE,M,Damani,Gopikishan,6000,1958,1,1,180.44,2.611E+12,69.4,11.2,49.7,1366417754,1/1/58,3/17/25,67.21
+425,Diversified,Sumet Jiaravanon,Thailand,Bangkok,Diversified,Diversified,FALSE,M,Jiaravanon,Sumet,6000,1934,11,2,113.27,5.4365E+11,76.9,14.9,29.5,69625582,11/2/34,3/17/25,90.37
+425,Finance & Investments,Frank Lowy,Israel,Tel Aviv,Investments,Finance & Investments,TRUE,M,Lowy,Frank,6000,1930,10,22,108.15,3.95099E+11,82.8,23.1,25.3,9053300,10/22/30,3/17/25,94.4
+425,Finance & Investments,Michael Milken,United States,Los Angeles,Investments,Finance & Investments,TRUE,M,Milken,Michael,6000,1946,7,4,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/4/46,3/17/25,78.7
+425,Technology,David Steward,United States,St. Louis,IT provider,Technology,TRUE,M,Steward,David,6000,1951,7,2,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/2/51,3/17/25,73.71
+425,Fashion & Retail,Les Wexner & family,United States,New Albany,Retail,Fashion & Retail,TRUE,M,Wexner,Les,6000,1937,9,8,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/8/37,3/17/25,87.52
+437,Real Estate,Cai Kui,China,Chengdu,Real estate,Real Estate,TRUE,M,Cai,Kui,5900,1963,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/63,3/17/25,62.21
+437,Diversified,Jaran Chiaravanont,Thailand,Bangkok,Diversified,Diversified,FALSE,M,Chiaravanont,Jaran,5900,1930,4,1,113.27,5.4365E+11,76.9,14.9,29.5,69625582,4/1/30,3/17/25,94.96
+437,Finance & Investments,Andreas Halvorsen,United States,Darien,Hedge funds,Finance & Investments,TRUE,M,Halvorsen,Andreas,5900,1961,4,23,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/23/61,3/17/25,63.9
+437,Finance & Investments,Antony Ressler,United States,Los Angeles,Finance,Finance & Investments,TRUE,M,Ressler,Antony,5900,1960,10,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,10/12/60,3/17/25,64.43
+437,Food & Beverage,Tsai Eng-meng,China,Shanghai,"Food, beverages",Food & Beverage,FALSE,M,Tsai,Eng-meng,5900,1957,1,15,125.08,1.991E+13,77,9.4,59.2,1397715000,1/15/57,3/17/25,68.17
+442,Finance & Investments,Josh Harris,United States,Miami,Private equity,Finance & Investments,TRUE,M,Harris,Josh,5800,1964,12,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/29/64,3/17/25,60.21
+442,Healthcare,Niels Peter Louis-Hansen,Denmark,Humlebaek,Medical devices,Healthcare,FALSE,M,Louis-Hansen,Niels Peter,5800,1947,10,25,110.35,3.48078E+11,81,32.4,23.8,5818553,10/25/47,3/17/25,77.39
+442,Healthcare,Patrick Soon-Shiong,United States,Los Angeles,Pharmaceuticals,Healthcare,TRUE,M,Soon-Shiong,Patrick,5800,1952,7,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/29/52,3/17/25,72.63
+445,Metals & Mining,Rinat Akhmetov,Ukraine,Donetsk,"Steel, coal",Metals & Mining,TRUE,M,Akhmetov,Rinat,5700,1966,9,21,281.66,1.53781E+11,71.6,20.1,45.2,44385155,9/21/66,3/17/25,58.49
+445,Healthcare,John Brown,United States,Atlanta,Medical equipment,Healthcare,TRUE,M,Brown,John,5700,1934,9,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/15/34,3/17/25,90.5
+445,Energy,Arthur Irving,Canada,Saint John,Oil,Energy,FALSE,M,Irving,Arthur,5700,1930,1,1,116.76,1.73643E+12,81.9,12.8,24.5,36991981,1/1/30,3/17/25,95.21
+445,Real Estate,Fredrik Lundberg,Sweden,Stockholm,"Real estate, investments",Real Estate,FALSE,M,Lundberg,Fredrik,5700,1951,8,5,110.51,5.30833E+11,82.5,27.9,49.1,10285453,8/5/51,3/17/25,73.61
+445,Construction & Engineering,Thomas Schmidheiny,Switzerland,Jona,Cement,Construction & Engineering,FALSE,M,Schmidheiny,Thomas,5700,1945,12,17,99.55,7.03082E+11,83.6,10.1,28.8,8574832,12/17/45,3/17/25,79.25
+445,Finance & Investments,Daniel Ziff,United States,New York,Investments,Finance & Investments,FALSE,M,Ziff,Daniel,5700,1971,11,2,117.24,2.14277E+13,78.5,9.6,36.6,328239523,11/2/71,3/17/25,53.37
+445,Finance & Investments,Dirk Ziff,United States,North Palm Beach,Investments,Finance & Investments,FALSE,M,Ziff,Dirk,5700,1964,4,1,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/1/64,3/17/25,60.96
+445,Finance & Investments,Robert Ziff,United States,New York,Investments,Finance & Investments,FALSE,M,Ziff,Robert,5700,1966,8,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/12/66,3/17/25,58.6
+455,Energy,Ray Lee Hunt,United States,Dallas,"Oil, real estate",Energy,FALSE,M,Hunt,Ray Lee,5600,1943,4,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/6/43,3/17/25,81.95
+455,Logistics,Lai Meisong,China,Shanghai,Package delivery,Logistics,TRUE,M,Lai,Meisong,5600,1970,12,1,125.08,1.991E+13,77,9.4,59.2,1397715000,12/1/70,3/17/25,54.29
+455,Automotive,Vikram Lal & family,India,Delhi,Motorcycles,Automotive,FALSE,M,Lal,Vikram,5600,1942,3,5,180.44,2.611E+12,69.4,11.2,49.7,1366417754,3/5/42,3/17/25,83.03
+455,Finance & Investments,Ken Langone,United States,Sands Point,Investments,Finance & Investments,TRUE,M,Langone,Ken,5600,1935,9,16,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/16/35,3/17/25,89.5
+455,Healthcare,Li Ge,China,Shanghai,Pharmaceutical ingredients,Healthcare,TRUE,M,Li,Ge,5600,1967,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/67,3/17/25,58.21
+455,Finance & Investments,Karen Pritzker,United States,Branford,"Hotels, investments",Finance & Investments,FALSE,F,Pritzker,Karen,5600,1958,1,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/7/58,3/17/25,67.19
+455,Service,Robert Rowling,United States,Dallas,"Hotels, investments",Service,FALSE,M,Rowling,Robert,5600,1953,9,26,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/26/53,3/17/25,71.47
+455,Gambling & Casinos,Teddy Sagi,Israel,Tel Aviv,Gambling software,Gambling & Casinos,TRUE,M,Sagi,Teddy,5600,1971,11,1,108.15,3.95099E+11,82.8,23.1,25.3,9053300,11/1/71,3/17/25,53.37
+455,Healthcare,Seo Jung-jin,South Korea,Seoul,Biotech,Healthcare,TRUE,M,Seo,Jung-jin,5600,1957,10,23,115.16,2.029E+12,82.6,15.6,33.2,51709098,10/23/57,3/17/25,67.4
+455,Automotive,Wu Jianshu,China,Ningbo,Auto parts,Automotive,TRUE,M,Wu,Jianshu,5600,1964,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/64,3/17/25,61.21
+466,Service,Micky Arison,United States,Bal Harbour,Carnival Cruises,Service,FALSE,M,Arison,Micky,5500,1949,6,29,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/29/49,3/17/25,75.72
+466,Media & Entertainment,James Chambers,United States,Palisades,"Media, automotive",Media & Entertainment,FALSE,M,Chambers,James,5500,1957,4,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/12/57,3/17/25,67.93
+466,Technology,John Collison,United States,San Francisco,Payments software,Technology,TRUE,M,Collison,John,5500,1990,8,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/6/90,3/17/25,34.61
+466,Technology,Patrick Collison,United States,San Francisco,Payment software,Technology,TRUE,M,Collison,Patrick,5500,1988,9,9,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/9/88,3/17/25,36.52
+466,Manufacturing,Archie Aldis Emmerson & family,United States,Redding,"Timberland, lumber mills",Manufacturing,TRUE,M,Emmerson,Archie Aldis,5500,1929,4,10,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/10/29,3/17/25,95.93
+466,Automotive,Piero Ferrari,Italy,Modena,Automobiles,Automotive,FALSE,M,Ferrari,Piero,5500,1945,5,22,110.62,2.00124E+12,82.9,24.3,59.1,60297396,5/22/45,3/17/25,79.82
+466,Automotive,Dan Friedkin,United States,Houston,Toyota dealerships,Automotive,FALSE,M,Friedkin,Dan,5500,1965,2,27,117.24,2.14277E+13,78.5,9.6,36.6,328239523,2/27/65,3/17/25,60.05
+466,Diversified,James Irving,Canada,Saint John,Diversified,Diversified,FALSE,M,Irving,James,5500,1928,3,20,116.76,1.73643E+12,81.9,12.8,24.5,36991981,3/20/28,3/17/25,96.99
+466,Manufacturing,Jiang Weiping & family,China,Chengdu,Chemicals,Manufacturing,TRUE,M,Jiang,Weiping,5500,1955,3,1,125.08,1.991E+13,77,9.4,59.2,1397715000,3/1/55,3/17/25,70.04
+466,Healthcare,Wolfgang Marguerre & family,Germany,Heidelberg,Pharmaceuticals,Healthcare,TRUE,M,Marguerre,Wolfgang,5500,1941,6,4,112.85,3.84563E+12,80.9,11.5,48.8,83132799,6/4/41,3/17/25,83.78
+466,Finance & Investments,Ludwig Merckle,Germany,Ulm,Pharmaceuticals,Finance & Investments,FALSE,M,Merckle,Ludwig,5500,1965,1,1,112.85,3.84563E+12,80.9,11.5,48.8,83132799,1/1/65,3/17/25,60.21
+466,Manufacturing,Mitchell Rales,United States,Potomac,"Manufacturing, investments",Manufacturing,TRUE,M,Rales,Mitchell,5500,1956,8,21,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/21/56,3/17/25,68.57
+466,Media & Entertainment,Katharine Rayner,United States,East Hampton,"Media, automotive",Media & Entertainment,FALSE,F,Rayner,Katharine,5500,1945,1,12,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/12/45,3/17/25,80.18
+466,Finance & Investments,Paul Singer,United States,New York,Hedge funds,Finance & Investments,TRUE,M,Singer,Paul,5500,1944,8,22,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/22/44,3/17/25,80.57
+466,Healthcare,Sergio Stevanato & family,Italy,Venice,Medical packaging,Healthcare,TRUE,M,Stevanato,Sergio,5500,1943,3,20,110.62,2.00124E+12,82.9,24.3,59.1,60297396,3/20/43,3/17/25,81.99
+466,Media & Entertainment,Margaretta Taylor,United States,Southampton,"Media, automotive",Media & Entertainment,FALSE,F,Taylor,Margaretta,5500,1942,4,15,117.24,2.14277E+13,78.5,9.6,36.6,328239523,4/15/42,3/17/25,82.92
+466,Technology,Richard White,Australia,Sydney,Software,Technology,TRUE,M,White,Richard,5500,1955,4,1,119.8,1.39268E+12,82.7,23,47.4,25766605,4/1/55,3/17/25,69.96
+466,Diversified,Zhao Yan,China,Beijing,Biotech,Diversified,TRUE,F,Zhao,Yan,5500,1967,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/67,3/17/25,58.21
+486,Fashion & Retail,Patrizio Bertelli,Italy,Milan,Luxury goods,Fashion & Retail,TRUE,M,Bertelli,Patrizio,5400,1946,1,1,110.62,2.00124E+12,82.9,24.3,59.1,60297396,1/1/46,3/17/25,79.21
+486,Manufacturing,Mahendra Choksi & family,India,Mumbai,Paints,Manufacturing,FALSE,M,Choksi,Mahendra,5400,1941,4,19,180.44,2.611E+12,69.4,11.2,49.7,1366417754,4/19/41,3/17/25,83.91
+486,Finance & Investments,Mat Ishbia,United States,Bloomfield Hills,Mortgage lender,Finance & Investments,FALSE,M,Ishbia,Mat,5400,1980,1,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/6/80,3/17/25,45.19
+486,Technology,Leo Koguan,Singapore,Singapore,IT provider,Technology,TRUE,M,Koguan,Leo,5400,1955,2,15,114.41,3.72063E+11,83.1,13.1,21,5703569,2/15/55,3/17/25,70.08
+486,Diversified,Miao Hangen,China,Suzhou,"Textiles, petrochemicals",Diversified,TRUE,M,Miao,Hangen,5400,1965,1,1,125.08,1.991E+13,77,9.4,59.2,1397715000,1/1/65,3/17/25,60.21
+486,Manufacturing,Michael Pieper,Switzerland,Lucerne,Kitchen appliances,Manufacturing,TRUE,M,Pieper,Michael,5400,1946,2,5,99.55,7.03082E+11,83.6,10.1,28.8,8574832,2/5/46,3/17/25,79.11
+486,Fashion & Retail,Miuccia Prada,Italy,Milan,Luxury goods,Fashion & Retail,FALSE,F,Prada,Miuccia,5400,1949,5,10,110.62,2.00124E+12,82.9,24.3,59.1,60297396,5/10/49,3/17/25,75.85
+486,Fashion & Retail,Wolfgang Reimann,Germany,Passau,Consumer goods,Fashion & Retail,FALSE,M,Reimann,Wolfgang,5400,1952,10,4,112.85,3.84563E+12,80.9,11.5,48.8,83132799,10/4/52,3/17/25,72.45
+486,Fashion & Retail,Matthias Reimann-Andersen,Germany,Munich,Consumer goods,Fashion & Retail,FALSE,M,Reimann-Andersen,Matthias,5400,1965,3,30,112.85,3.84563E+12,80.9,11.5,48.8,83132799,3/30/65,3/17/25,59.97
+486,Fashion & Retail,Stefan Reimann-Andersen,Austria,Vienna,Consumer goods,Fashion & Retail,FALSE,M,Reimann-Andersen,Stefan,5400,1963,7,13,118.06,4.46315E+11,81.6,25.4,51.4,8877067,7/13/63,3/17/25,61.68
+486,Fashion & Retail,Renate Reimann-Haas,Austria,Vienna,Consumer goods,Fashion & Retail,FALSE,F,Reimann-Haas,Renate,5400,1951,10,8,118.06,4.46315E+11,81.6,25.4,51.4,8877067,10/8/51,3/17/25,73.44
+497,Finance & Investments,Todd Boehly,United States,Darien,Finance,Finance & Investments,TRUE,M,Boehly,Todd,5300,1973,9,20,117.24,2.14277E+13,78.5,9.6,36.6,328239523,9/20/73,3/17/25,51.49
+497,Real Estate,Rick Caruso,United States,Los Angeles,Real estate,Real Estate,TRUE,M,Caruso,Rick,5300,1959,1,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/7/59,3/17/25,66.19
+497,Manufacturing,Ibrahim Erdemoglu,Turkey,Istanbul,Carpet,Manufacturing,TRUE,M,Erdemoglu,Ibrahim,5300,1962,9,26,234.44,7.54412E+11,77.4,17.9,42.3,83429615,9/26/62,3/17/25,62.47
+497,Manufacturing,Ibrahim Erdemoglu,Turkey,Istanbul,Carpet,Manufacturing,TRUE,M,Erdemoglu,Ibrahim,5300,1962,9,26,234.44,7.54412E+11,77.4,17.9,42.3,83429615,9/26/62,3/17/25,62.47
+497,Finance & Investments,Elizabeth Johnson,United States,Boston,Fidelity,Finance & Investments,FALSE,F,Johnson,Elizabeth,5300,1963,5,7,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/7/63,3/17/25,61.86
+497,Finance & Investments,Douglas Leone,United States,Atherton,Venture capital,Finance & Investments,TRUE,M,Leone,Douglas,5300,1957,7,4,117.24,2.14277E+13,78.5,9.6,36.6,328239523,7/4/57,3/17/25,67.7
+497,Diversified,Prajogo Pangestu,Indonesia,Jakarta,Petrochemicals,Diversified,FALSE,M,Pangestu,Prajogo,5300,1944,5,13,151.18,1.11919E+12,71.5,10.2,30.1,270203917,5/13/44,3/17/25,80.84
+497,Finance & Investments,Thomas Pritzker,United States,Chicago,"Hotels, investments",Finance & Investments,FALSE,M,Pritzker,Thomas,5300,1950,6,6,117.24,2.14277E+13,78.5,9.6,36.6,328239523,6/6/50,3/17/25,74.78
+497,Food & Beverage,Lynda Resnick,United States,Beverly Hills,Agriculture,Food & Beverage,TRUE,F,Resnick,Lynda,5300,1943,1,2,117.24,2.14277E+13,78.5,9.6,36.6,328239523,1/2/43,3/17/25,82.2
+497,Food & Beverage,Stewart Resnick,United States,Beverly Hills,Agriculture,Food & Beverage,TRUE,M,Resnick,Stewart,5300,1936,12,24,117.24,2.14277E+13,78.5,9.6,36.6,328239523,12/24/36,3/17/25,88.23
+497,Service,Gary Rollins,United States,Atlanta,Pest control,Service,FALSE,M,Rollins,Gary,5300,1944,8,30,117.24,2.14277E+13,78.5,9.6,36.6,328239523,8/30/44,3/17/25,80.54
+497,Finance & Investments,Mark Walter,United States,Chicago,"Finance, asset management",Finance & Investments,TRUE,M,Walter,Mark,5300,1960,5,22,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/22/60,3/17/25,64.82
+497,Manufacturing,Ronald Wanek,United States,Saint Petersburg,Furniture,Manufacturing,TRUE,M,Wanek,Ronald,5300,1941,5,19,117.24,2.14277E+13,78.5,9.6,36.6,328239523,5/19/41,3/17/25,83.83
+497,Food & Beverage,Erich Wesjohann & family,Germany,Visbek,Poultry genetics,Food & Beverage,TRUE,M,Wesjohann,Erich,5300,1945,6,2,112.85,3.84563E+12,80.9,11.5,48.8,83132799,6/2/45,3/17/25,79.79
+497,Fashion & Retail,M.A. Yusuff Ali,United Arab Emirates,Abu Dhabi,Retail,Fashion & Retail,TRUE,M,Yusuff Ali,M.A.,5300,1955,11,15,114.52,4.21142E+11,77.8,0.1,15.9,9770529,11/15/55,3/17/25,69.34
